@@ -1,0 +1,10 @@
+{
+  "name": "KendinBilimLeapClient",
+  "version": "0.0.1",
+  "description": "Kendin bilim leap client",
+  "dependencies": {
+    "express": "^4.10.2",
+    "leapjs": "0.2.1",
+    "socket.io": "^1.4.8"
+  }
+}

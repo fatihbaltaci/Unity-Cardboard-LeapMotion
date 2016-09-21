@@ -1,0 +1,1177 @@
+Swipe id: 1, state: STATE_START, position: (-159.52, 233.579, -56.6826), direction: (0.713601, -0.410749, -0.567503), speed: 288.476593
+
+Swipe id: 2, state: STATE_START, position: (-189.469, 216.209, -65.1974), direction: (0.714505, -0.398146, -0.575294), speed: 294.780121
+
+Swipe id: 3, state: STATE_START, position: (-203.613, 187.589, -62.0929), direction: (0.702555, -0.422736, -0.57246), speed: 283.731018
+
+Swipe id: 1, state: STATE_UPDATE, position: (-144.365, 228.822, -63.3988), direction: (0.728683, -0.398867, -0.556711), speed: 277.885010
+
+Swipe id: 2, state: STATE_UPDATE, position: (-174.417, 211.327, -72.3441), direction: (0.727937, -0.389241, -0.564446), speed: 283.397461
+
+Swipe id: 3, state: STATE_UPDATE, position: (-188.13, 182.591, -69.3549), direction: (0.719255, -0.410302, -0.560647), speed: 271.186920
+
+Swipe id: 1, state: STATE_UPDATE, position: (-127.347, 223.807, -69.3253), direction: (0.774386, -0.374268, -0.510147), speed: 266.670258
+
+Swipe id: 2, state: STATE_UPDATE, position: (-157.396, 206.222, -78.9939), direction: (0.790527, -0.35195, -0.501196), speed: 271.184814
+
+Swipe id: 3, state: STATE_UPDATE, position: (-170.744, 177.103, -76.3537), direction: (0.762801, -0.383046, -0.520971), speed: 257.582336
+
+Swipe id: 1, state: STATE_UPDATE, position: (-109.538, 219.789, -74.3217), direction: (0.812737, -0.347585, -0.467593), speed: 256.572235
+
+Swipe id: 2, state: STATE_UPDATE, position: (-138.964, 201.451, -85.2354), direction: (0.804723, -0.342205, -0.485095), speed: 259.149261
+
+Swipe id: 3, state: STATE_UPDATE, position: (-152.083, 172.249, -82.7382), direction: (0.800155, -0.356101, -0.482643), speed: 244.222076
+
+Swipe id: 4, state: STATE_START, position: (-53.896, 206.697, -21.7839), direction: (0.83339, -0.330204, -0.443201), speed: 214.716370
+
+Swipe id: 1, state: STATE_UPDATE, position: (-90.2875, 216.159, -78.7945), direction: (0.847785, -0.317955, -0.424459), speed: 247.153824
+
+Swipe id: 2, state: STATE_UPDATE, position: (-118.91, 197.025, -91.065), direction: (0.836844, -0.317222, -0.446164), speed: 247.489502
+
+Swipe id: 3, state: STATE_UPDATE, position: (-132.826, 168.409, -88.1102), direction: (0.835163, -0.325884, -0.443059), speed: 231.878448
+
+Swipe id: 4, state: STATE_UPDATE, position: (-36.432, 203.582, -23.6971), direction: (0.87504, -0.300517, -0.379466), speed: 208.168854
+
+Swipe id: 1, state: STATE_UPDATE, position: (-69.2997, 212.188, -82.4489), direction: (0.879484, -0.290742, -0.376799), speed: 237.957596
+
+Swipe id: 2, state: STATE_UPDATE, position: (-97.1716, 192.504, -95.903), direction: (0.866776, -0.293853, -0.402926), speed: 236.003052
+
+Swipe id: 3, state: STATE_UPDATE, position: (-111.963, 164.331, -92.653), direction: (0.866658, -0.298111, -0.400042), speed: 219.373779
+
+Swipe id: 4, state: STATE_UPDATE, position: (-18.1282, 199.175, -23.9065), direction: (0.908053, -0.281621, -0.310047), speed: 201.421722
+
+Swipe id: 1, state: STATE_UPDATE, position: (-46.3159, 207.962, -84.5204), direction: (0.891523, -0.284794, -0.35225), speed: 229.209412
+
+Swipe id: 2, state: STATE_UPDATE, position: (-73.6772, 188.529, -99.5574), direction: (0.879, -0.284916, -0.382338), speed: 225.573151
+
+Swipe id: 3, state: STATE_UPDATE, position: (-89.1002, 160.371, -97.0634), direction: (0.876511, -0.290142, -0.384116), speed: 207.554474
+
+Swipe id: 4, state: STATE_UPDATE, position: (0.983908, 195.038, -23.0316), direction: (0.933994, -0.263046, -0.24179), speed: 196.395340
+
+Swipe id: 1, state: STATE_UPDATE, position: (-22.3962, 204.195, -85.3364), direction: (0.917812, -0.260549, -0.299559), speed: 222.439941
+
+Swipe id: 2, state: STATE_UPDATE, position: (-49.0551, 185.074, -102.166), direction: (0.905074, -0.259854, -0.336625), speed: 217.017502
+
+Swipe id: 3, state: STATE_UPDATE, position: (-65.7486, 157.379, -100.43), direction: (0.902228, -0.261331, -0.34306), speed: 197.932724
+
+Swipe id: 4, state: STATE_UPDATE, position: (19.5334, 194.364, -19.919), direction: (0.958657, -0.227592, -0.17082), speed: 196.355988
+
+Swipe id: 1, state: STATE_UPDATE, position: (2.56418, 201.049, -85.3587), direction: (0.926756, -0.252935, -0.277753), speed: 218.434174
+
+Swipe id: 2, state: STATE_UPDATE, position: (-23.3976, 182.204, -103.834), direction: (0.914764, -0.250279, -0.317124), speed: 211.014435
+
+Swipe id: 3, state: STATE_UPDATE, position: (-39.2252, 153.004, -103.634), direction: (0.922292, -0.239916, -0.303013), speed: 188.914581
+
+Swipe id: 4, state: STATE_UPDATE, position: (40.8648, 192.423, -20.6158), direction: (0.971305, -0.199558, -0.129398), speed: 197.791687
+
+Swipe id: 1, state: STATE_UPDATE, position: (29.5271, 195.808, -88.359), direction: (0.940734, -0.236759, -0.242825), speed: 216.841110
+
+Swipe id: 2, state: STATE_UPDATE, position: (5.32607, 175.88, -108.278), direction: (0.939243, -0.224247, -0.259876), speed: 206.606781
+
+Swipe id: 3, state: STATE_UPDATE, position: (-10.4183, 145.867, -108.34), direction: (0.934228, -0.231311, -0.271501), speed: 181.997559
+
+Swipe id: 4, state: STATE_UPDATE, position: (59.1105, 190.295, -18.5897), direction: (0.985174, -0.166407, -0.0417344), speed: 200.129700
+
+Swipe id: 1, state: STATE_UPDATE, position: (55.8201, 191.597, -87.7152), direction: (0.954517, -0.220702, -0.200468), speed: 217.989334
+
+Swipe id: 2, state: STATE_UPDATE, position: (34.5603, 170.547, -109.897), direction: (0.951698, -0.211629, -0.222449), speed: 205.810654
+
+Swipe id: 3, state: STATE_UPDATE, position: (19.2424, 139.732, -111.083), direction: (0.946113, -0.220273, -0.23738), speed: 179.539886
+
+Swipe id: 4, state: STATE_UPDATE, position: (72.0855, 188.243, -16.8152), direction: (0.984367, -0.171084, -0.0418537), speed: 202.273041
+
+Swipe id: 1, state: STATE_UPDATE, position: (76.7613, 186.928, -86.1083), direction: (0.963435, -0.21276, -0.162866), speed: 219.657013
+
+Swipe id: 2, state: STATE_UPDATE, position: (59.9293, 162.691, -109.959), direction: (0.951619, -0.224414, -0.209905), speed: 205.306625
+
+Swipe id: 3, state: STATE_UPDATE, position: (46.8304, 131.269, -111.409), direction: (0.954157, -0.222336, -0.200376), speed: 178.427979
+
+Swipe id: 4, state: STATE_UPDATE, position: (84.6942, 188.135, -14.7296), direction: (0.988403, -0.151776, -0.00493693), speed: 206.845154
+
+Swipe id: 1, state: STATE_UPDATE, position: (96.5624, 181.751, -83.0322), direction: (0.970063, -0.208832, -0.123964), speed: 221.928375
+
+Swipe id: 2, state: STATE_UPDATE, position: (84.3999, 153.657, -106.34), direction: (0.958835, -0.23003, -0.166498), speed: 205.041580
+
+Swipe id: 3, state: STATE_UPDATE, position: (73.7267, 121.612, -106.247), direction: (0.955847, -0.238003, -0.17237), speed: 177.520615
+
+Swipe id: 5, state: STATE_START, position: (64.6757, 95.5249, -89.3423), direction: (0.977893, -0.190862, -0.0854236), speed: 145.910934
+
+Swipe id: 4, state: STATE_UPDATE, position: (98.745, 187.842, -11.3757), direction: (0.990552, -0.132583, 0.0350459), speed: 212.519485
+
+Swipe id: 1, state: STATE_UPDATE, position: (117.416, 176.064, -77.5196), direction: (0.975007, -0.207684, -0.0789161), speed: 225.376099
+
+Swipe id: 2, state: STATE_UPDATE, position: (109.342, 144.865, -99.0158), direction: (0.965093, -0.235578, -0.114447), speed: 206.750381
+
+Swipe id: 3, state: STATE_UPDATE, position: (100.766, 111.913, -96.6703), direction: (0.963018, -0.244605, -0.112978), speed: 178.951233
+
+Swipe id: 4, state: STATE_UPDATE, position: (117.162, 186.906, -3.70594), direction: (0.989038, -0.11406, 0.0937786), speed: 220.622406
+
+Swipe id: 1, state: STATE_UPDATE, position: (142.235, 171.178, -66.9889), direction: (0.979157, -0.2022, -0.0191257), speed: 232.422348
+
+Swipe id: 2, state: STATE_UPDATE, position: (135.904, 139.095, -87.4046), direction: (0.973657, -0.226833, -0.0232023), speed: 213.206070
+
+Swipe id: 3, state: STATE_UPDATE, position: (128.158, 105.17, -83.38), direction: (0.969113, -0.242109, -0.0469303), speed: 185.573471
+
+Swipe id: 4, state: STATE_UPDATE, position: (131.788, 186.119, 6.68166), direction: (0.97563, -0.0868305, 0.201512), speed: 228.151169
+
+Swipe id: 1, state: STATE_UPDATE, position: (164.247, 167.96, -52.6214), direction: (0.97853, -0.18923, 0.0816714), speed: 240.741364
+
+Swipe id: 2, state: STATE_UPDATE, position: (160.657, 135.191, -72.1213), direction: (0.974206, -0.220407, 0.0484014), speed: 222.011063
+
+Swipe id: 3, state: STATE_UPDATE, position: (155.404, 100.409, -65.7812), direction: (0.970621, -0.233346, 0.0586902), speed: 196.365738
+
+Swipe id: 4, state: STATE_UPDATE, position: (131.788, 186.119, 6.68166), direction: (0.97563, -0.0868305, 0.201512), speed: 228.151169
+
+Swipe id: 1, state: STATE_UPDATE, position: (184.348, 165.313, -36.8459), direction: (0.97115, -0.182618, 0.153357), speed: 250.340439
+
+Swipe id: 2, state: STATE_UPDATE, position: (183.41, 132.546, -55.9578), direction: (0.969928, -0.212502, 0.11867), speed: 233.107040
+
+Swipe id: 3, state: STATE_UPDATE, position: (155.404, 100.409, -65.7812), direction: (0.970621, -0.233346, 0.0586902), speed: 196.365738
+
+Swipe id: 4, state: STATE_UPDATE, position: (154.876, 183.056, 27.2117), direction: (0.932386, -0.0755969, 0.35347), speed: 241.322525
+
+Swipe id: 1, state: STATE_UPDATE, position: (201.306, 162.835, -21.4899), direction: (0.966466, -0.18069, 0.18247), speed: 259.810303
+
+Swipe id: 2, state: STATE_UPDATE, position: (204.442, 129.207, -37.846), direction: (0.958879, -0.207474, 0.193664), speed: 244.792831
+
+Swipe id: 3, state: STATE_UPDATE, position: (155.404, 100.409, -65.7812), direction: (0.970621, -0.233346, 0.0586902), speed: 196.365738
+
+Swipe id: 4, state: STATE_UPDATE, position: (164.642, 181.16, 34.8876), direction: (0.907534, -0.0785971, 0.412559), speed: 247.271286
+
+Swipe id: 1, state: STATE_UPDATE, position: (201.306, 162.835, -21.4899), direction: (0.966466, -0.18069, 0.18247), speed: 259.810303
+
+Swipe id: 2, state: STATE_UPDATE, position: (204.442, 129.207, -37.846), direction: (0.958879, -0.207474, 0.193664), speed: 244.792831
+
+Swipe id: 3, state: STATE_UPDATE, position: (155.404, 100.409, -65.7812), direction: (0.970621, -0.233346, 0.0586902), speed: 196.365738
+
+Swipe id: 4, state: STATE_UPDATE, position: (164.642, 181.16, 34.8876), direction: (0.907534, -0.0785971, 0.412559), speed: 247.271286
+
+Swipe id: 1, state: STATE_UPDATE, position: (201.306, 162.835, -21.4899), direction: (0.966466, -0.18069, 0.18247), speed: 259.810303
+
+Swipe id: 2, state: STATE_UPDATE, position: (204.442, 129.207, -37.846), direction: (0.958879, -0.207474, 0.193664), speed: 244.792831
+
+Swipe id: 3, state: STATE_UPDATE, position: (155.404, 100.409, -65.7812), direction: (0.970621, -0.233346, 0.0586902), speed: 196.365738
+
+Swipe id: 4, state: STATE_UPDATE, position: (164.642, 181.16, 34.8876), direction: (0.907534, -0.0785971, 0.412559), speed: 247.271286
+
+Swipe id: 1, state: STATE_UPDATE, position: (201.306, 162.835, -21.4899), direction: (0.966466, -0.18069, 0.18247), speed: 259.810303
+
+Swipe id: 2, state: STATE_UPDATE, position: (204.442, 129.207, -37.846), direction: (0.958879, -0.207474, 0.193664), speed: 244.792831
+
+Swipe id: 3, state: STATE_UPDATE, position: (155.404, 100.409, -65.7812), direction: (0.970621, -0.233346, 0.0586902), speed: 196.365738
+
+Swipe id: 4, state: STATE_UPDATE, position: (164.642, 181.16, 34.8876), direction: (0.907534, -0.0785971, 0.412559), speed: 247.271286
+
+Swipe id: 1, state: STATE_UPDATE, position: (201.306, 162.835, -21.4899), direction: (0.966466, -0.18069, 0.18247), speed: 259.810303
+
+Swipe id: 2, state: STATE_UPDATE, position: (204.442, 129.207, -37.846), direction: (0.958879, -0.207474, 0.193664), speed: 244.792831
+
+Swipe id: 3, state: STATE_END, position: (155.404, 100.409, -65.7812), direction: (0.970621, -0.233346, 0.0586902), speed: 196.365738
+
+Swipe id: 4, state: STATE_UPDATE, position: (164.642, 181.16, 34.8876), direction: (0.907534, -0.0785971, 0.412559), speed: 247.271286
+
+Swipe id: 2, state: STATE_UPDATE, position: (204.442, 129.207, -37.846), direction: (0.958879, -0.207474, 0.193664), speed: 244.792831
+
+Swipe id: 4, state: STATE_UPDATE, position: (164.642, 181.16, 34.8876), direction: (0.907534, -0.0785971, 0.412559), speed: 247.271286
+
+Swipe id: 2, state: STATE_END, position: (204.442, 129.207, -37.846), direction: (0.958879, -0.207474, 0.193664), speed: 244.792831
+
+Swipe id: 4, state: STATE_END, position: (164.642, 181.16, 34.8876), direction: (0.907534, -0.0785971, 0.412559), speed: 247.271286
+
+Swipe id: 1, state: STATE_START, position: (-213.561, 247.542, 49.7436), direction: (-0.99628, 0.082398, 0.0252241), speed: 330.695618
+
+Swipe id: 2, state: STATE_START, position: (-238.089, 235.805, 62.5632), direction: (-0.986872, 0.0777602, 0.141555), speed: 340.887787
+
+Swipe id: 1, state: STATE_UPDATE, position: (-218.204, 248.158, 49.8905), direction: (-0.995898, 0.0832837, 0.0353643), speed: 334.192169
+
+Swipe id: 2, state: STATE_UPDATE, position: (-242.656, 236.582, 63.204), direction: (-0.984997, 0.0803938, 0.152701), speed: 344.742310
+
+Swipe id: 3, state: STATE_START, position: (-257.208, 209.348, 77.0825), direction: (-0.968894, 0.0854542, 0.232255), speed: 340.476990
+
+Swipe id: 1, state: STATE_UPDATE, position: (-222.241, 248.136, 50.3977), direction: (-0.996199, 0.0807705, 0.0326001), speed: 336.901276
+
+Swipe id: 2, state: STATE_UPDATE, position: (-246.37, 236.37, 64.2173), direction: (-0.985839, 0.0760183, 0.149472), speed: 347.408813
+
+Swipe id: 3, state: STATE_START, position: (-257.208, 209.348, 77.0825), direction: (-0.968894, 0.0854542, 0.232255), speed: 340.476990
+
+Swipe id: 4, state: STATE_START, position: (-195.762, 257.035, 59.5535), direction: (-0.992324, 0.107141, -0.0617583), speed: 328.537231
+
+Swipe id: 1, state: STATE_UPDATE, position: (-225.921, 248.519, 51.2775), direction: (-0.995546, 0.0802337, 0.049496), speed: 339.752228
+
+Swipe id: 2, state: STATE_UPDATE, position: (-249.52, 236.127, 65.2307), direction: (-0.98379, 0.0693073, 0.16539), speed: 349.673462
+
+Swipe id: 3, state: STATE_START, position: (-257.208, 209.348, 77.0825), direction: (-0.968894, 0.0854542, 0.232255), speed: 340.476990
+
+Swipe id: 4, state: STATE_UPDATE, position: (-199.566, 257.421, 59.6793), direction: (-0.992083, 0.108812, -0.0626994), speed: 331.139862
+
+Swipe id: 1, state: STATE_UPDATE, position: (-229.866, 248.8, 51.9685), direction: (-0.995584, 0.080852, 0.0477106), speed: 342.695892
+
+Swipe id: 2, state: STATE_UPDATE, position: (-253.069, 236.055, 66.2436), direction: (-0.984519, 0.067324, 0.161831), speed: 352.354797
+
+Swipe id: 3, state: STATE_START, position: (-257.208, 209.348, 77.0825), direction: (-0.968894, 0.0854542, 0.232255), speed: 340.476990
+
+Swipe id: 4, state: STATE_UPDATE, position: (-203.459, 257.301, 59.701), direction: (-0.993484, 0.100718, -0.0533343), speed: 333.412109
+
+Swipe id: 1, state: STATE_UPDATE, position: (-233.842, 248.512, 52.5103), direction: (-0.995418, 0.0739294, 0.0606462), speed: 345.249634
+
+Swipe id: 2, state: STATE_UPDATE, position: (-256.778, 235.784, 67.3296), direction: (-0.982388, 0.0599747, 0.176965), speed: 355.052368
+
+Swipe id: 3, state: STATE_START, position: (-257.208, 209.348, 77.0825), direction: (-0.968894, 0.0854542, 0.232255), speed: 340.476990
+
+Swipe id: 4, state: STATE_UPDATE, position: (-207.413, 258.171, 59.4993), direction: (-0.992564, 0.107168, -0.0577209), speed: 336.470795
+
+Swipe id: 1, state: STATE_UPDATE, position: (-233.842, 248.512, 52.5103), direction: (-0.995418, 0.0739294, 0.0606462), speed: 345.249634
+
+Swipe id: 2, state: STATE_UPDATE, position: (-256.778, 235.784, 67.3296), direction: (-0.982388, 0.0599747, 0.176965), speed: 355.052368
+
+Swipe id: 3, state: STATE_START, position: (-257.208, 209.348, 77.0825), direction: (-0.968894, 0.0854542, 0.232255), speed: 340.476990
+
+Swipe id: 4, state: STATE_UPDATE, position: (-207.413, 258.171, 59.4993), direction: (-0.992564, 0.107168, -0.0577209), speed: 336.470795
+
+Swipe id: 1, state: STATE_UPDATE, position: (-233.842, 248.512, 52.5103), direction: (-0.995418, 0.0739294, 0.0606462), speed: 345.249634
+
+Swipe id: 2, state: STATE_UPDATE, position: (-256.778, 235.784, 67.3296), direction: (-0.982388, 0.0599747, 0.176965), speed: 355.052368
+
+Swipe id: 3, state: STATE_END, position: (-257.208, 209.348, 77.0825), direction: (-0.968894, 0.0854542, 0.232255), speed: 340.476990
+
+Swipe id: 4, state: STATE_UPDATE, position: (-207.413, 258.171, 59.4993), direction: (-0.992564, 0.107168, -0.0577209), speed: 336.470795
+
+Swipe id: 1, state: STATE_UPDATE, position: (-233.842, 248.512, 52.5103), direction: (-0.995418, 0.0739294, 0.0606462), speed: 345.249634
+
+Swipe id: 2, state: STATE_UPDATE, position: (-256.778, 235.784, 67.3296), direction: (-0.982388, 0.0599747, 0.176965), speed: 355.052368
+
+Swipe id: 4, state: STATE_UPDATE, position: (-207.413, 258.171, 59.4993), direction: (-0.992564, 0.107168, -0.0577209), speed: 336.470795
+
+Swipe id: 1, state: STATE_END, position: (-233.842, 248.512, 52.5103), direction: (-0.995418, 0.0739294, 0.0606462), speed: 345.249634
+
+Swipe id: 2, state: STATE_END, position: (-256.778, 235.784, 67.3296), direction: (-0.982388, 0.0599747, 0.176965), speed: 355.052368
+
+Swipe id: 4, state: STATE_END, position: (-207.413, 258.171, 59.4993), direction: (-0.992564, 0.107168, -0.0577209), speed: 336.470795
+
+Swipe id: 5, state: STATE_START, position: (-115.553, 202.624, -44.925), direction: (0.783385, -0.305462, -0.541295), speed: 237.544037
+
+Swipe id: 6, state: STATE_START, position: (-145.615, 188.941, -54.2988), direction: (0.765516, -0.314982, -0.561045), speed: 244.644302
+
+Swipe id: 5, state: STATE_UPDATE, position: (-103.466, 196.718, -52.9889), direction: (0.782619, -0.31888, -0.534624), speed: 228.497223
+
+Swipe id: 6, state: STATE_UPDATE, position: (-132.735, 181.433, -63.3402), direction: (0.762399, -0.325009, -0.559568), speed: 233.555862
+
+Swipe id: 8, state: STATE_START, position: (-158.079, 160.976, -50.4716), direction: (0.719977, -0.371407, -0.586251), speed: 231.192062
+
+Swipe id: 9, state: STATE_START, position: (-53.8165, 182.069, -7.25325), direction: (0.804659, -0.286597, -0.519987), speed: 189.994217
+
+Swipe id: 5, state: STATE_UPDATE, position: (-90.1891, 190.029, -60.8191), direction: (0.783149, -0.324517, -0.53044), speed: 218.961639
+
+Swipe id: 6, state: STATE_UPDATE, position: (-118.213, 172.614, -72.2497), direction: (0.761914, -0.348489, -0.545933), speed: 221.336502
+
+Swipe id: 8, state: STATE_UPDATE, position: (-142.844, 151.048, -60.3723), direction: (0.725931, -0.382413, -0.571651), speed: 216.482742
+
+Swipe id: 9, state: STATE_UPDATE, position: (-42.526, 178.666, -13.5794), direction: (0.807413, -0.281913, -0.518276), speed: 184.158142
+
+Swipe id: 5, state: STATE_UPDATE, position: (-75.6577, 183.429, -69.4382), direction: (0.78537, -0.33323, -0.521681), speed: 210.218567
+
+Swipe id: 6, state: STATE_UPDATE, position: (-102.092, 163.787, -82.1521), direction: (0.762132, -0.364091, -0.535343), speed: 209.756699
+
+Swipe id: 8, state: STATE_UPDATE, position: (-126.053, 141.298, -71.2155), direction: (0.726721, -0.397684, -0.56011), speed: 202.302109
+
+Swipe id: 9, state: STATE_UPDATE, position: (-30.2407, 174.928, -18.8543), direction: (0.81767, -0.280713, -0.502609), speed: 178.521088
+
+Swipe id: 5, state: STATE_UPDATE, position: (-59.2753, 176.639, -77.2429), direction: (0.792273, -0.33961, -0.506921), speed: 201.695999
+
+Swipe id: 6, state: STATE_UPDATE, position: (-83.7349, 154.973, -91.3839), direction: (0.769971, -0.364405, -0.523789), speed: 198.441544
+
+Swipe id: 8, state: STATE_UPDATE, position: (-107.062, 131.439, -81.6642), direction: (0.738357, -0.396235, -0.545735), speed: 188.168976
+
+Swipe id: 9, state: STATE_UPDATE, position: (-16.5775, 170.505, -22.6691), direction: (0.832273, -0.282397, -0.477046), speed: 172.802017
+
+Swipe id: 5, state: STATE_UPDATE, position: (-40.3255, 168.661, -83.634), direction: (0.803229, -0.341076, -0.488354), speed: 192.528549
+
+Swipe id: 6, state: STATE_UPDATE, position: (-62.9819, 145.278, -98.8913), direction: (0.781638, -0.375127, -0.498318), speed: 186.686630
+
+Swipe id: 8, state: STATE_UPDATE, position: (-85.6797, 121.026, -90.3866), direction: (0.751459, -0.405299, -0.520617), speed: 173.660950
+
+Swipe id: 9, state: STATE_UPDATE, position: (-2.17352, 166.452, -27.719), direction: (0.843832, -0.278782, -0.458506), speed: 168.758530
+
+Swipe id: 5, state: STATE_UPDATE, position: (-20.3637, 161.872, -89.8907), direction: (0.816054, -0.342303, -0.465709), speed: 186.272537
+
+Swipe id: 6, state: STATE_UPDATE, position: (-40.4432, 136.142, -106.019), direction: (0.79535, -0.379621, -0.472553), speed: 177.229507
+
+Swipe id: 8, state: STATE_UPDATE, position: (-61.7306, 110.551, -98.6375), direction: (0.768387, -0.408889, -0.492332), speed: 160.503860
+
+Swipe id: 9, state: STATE_UPDATE, position: (25.7288, 157.231, -34.93), direction: (0.862479, -0.28264, -0.419815), speed: 163.106232
+
+Swipe id: 5, state: STATE_UPDATE, position: (16.8783, 148.115, -98.1946), direction: (0.837645, -0.346448, -0.422284), speed: 178.507843
+
+Swipe id: 6, state: STATE_UPDATE, position: (-2.88387, 122.015, -114.806), direction: (0.818723, -0.379977, -0.430476), speed: 167.560242
+
+Swipe id: 8, state: STATE_UPDATE, position: (-26.7303, 98.5686, -108.539), direction: (0.794085, -0.394558, -0.462334), speed: 149.033768
+
+Swipe id: 9, state: STATE_UPDATE, position: (31.549, 158.223, -37.497), direction: (0.875737, -0.26248, -0.405202), speed: 165.637375
+
+Swipe id: 5, state: STATE_UPDATE, position: (32.0295, 144.534, -100.268), direction: (0.849353, -0.342714, -0.40143), speed: 178.800751
+
+Swipe id: 6, state: STATE_UPDATE, position: (19.5311, 114, -116.776), direction: (0.834776, -0.381251, -0.397237), speed: 164.359711
+
+Swipe id: 8, state: STATE_UPDATE, position: (0.710128, 86.1135, -111.206), direction: (0.81601, -0.406565, -0.410892), speed: 140.651169
+
+Swipe id: 9, state: STATE_UPDATE, position: (31.549, 158.223, -37.497), direction: (0.875737, -0.26248, -0.405202), speed: 165.637375
+
+Swipe id: 5, state: STATE_UPDATE, position: (51.3168, 142.24, -97.6356), direction: (0.871321, -0.331749, -0.361583), speed: 179.995621
+
+Swipe id: 6, state: STATE_UPDATE, position: (46.552, 109.205, -113.356), direction: (0.862586, -0.369006, -0.346092), speed: 164.141510
+
+Swipe id: 8, state: STATE_UPDATE, position: (31.1832, 78.9815, -108.569), direction: (0.848265, -0.394075, -0.353767), speed: 137.832428
+
+Swipe id: 9, state: STATE_UPDATE, position: (31.549, 158.223, -37.497), direction: (0.875737, -0.26248, -0.405202), speed: 165.637375
+
+Swipe id: 5, state: STATE_UPDATE, position: (73.4641, 140.993, -91.4916), direction: (0.902379, -0.314075, -0.295075), speed: 183.430527
+
+Swipe id: 6, state: STATE_UPDATE, position: (74.6926, 107.071, -105.964), direction: (0.898903, -0.347499, -0.266866), speed: 168.141388
+
+Swipe id: 8, state: STATE_UPDATE, position: (62.0014, 75.6374, -101.9), direction: (0.882365, -0.370832, -0.289682), speed: 141.240051
+
+Swipe id: 11, state: STATE_START, position: (59.1329, 44.6391, -77.332), direction: (0.927113, -0.341862, -0.153595), speed: 107.096176
+
+Swipe id: 9, state: STATE_UPDATE, position: (31.549, 158.223, -37.497), direction: (0.875737, -0.26248, -0.405202), speed: 165.637375
+
+Swipe id: 5, state: STATE_UPDATE, position: (96.386, 141.285, -82.2138), direction: (0.929681, -0.289145, -0.228229), speed: 189.765518
+
+Swipe id: 6, state: STATE_UPDATE, position: (99.4707, 106.879, -96.2525), direction: (0.925884, -0.320794, -0.199576), speed: 174.877441
+
+Swipe id: 8, state: STATE_UPDATE, position: (90.2202, 75.2741, -91.2713), direction: (0.923507, -0.333361, -0.18975), speed: 148.782791
+
+Swipe id: 11, state: STATE_START, position: (59.1329, 44.6391, -77.332), direction: (0.927113, -0.341862, -0.153595), speed: 107.096176
+
+Swipe id: 9, state: STATE_UPDATE, position: (31.549, 158.223, -37.497), direction: (0.875737, -0.26248, -0.405202), speed: 165.637375
+
+Swipe id: 5, state: STATE_UPDATE, position: (96.386, 141.285, -82.2138), direction: (0.929681, -0.289145, -0.228229), speed: 189.765518
+
+Swipe id: 6, state: STATE_UPDATE, position: (99.4707, 106.879, -96.2525), direction: (0.925884, -0.320794, -0.199576), speed: 174.877441
+
+Swipe id: 8, state: STATE_UPDATE, position: (90.2202, 75.2741, -91.2713), direction: (0.923507, -0.333361, -0.18975), speed: 148.782791
+
+Swipe id: 11, state: STATE_START, position: (59.1329, 44.6391, -77.332), direction: (0.927113, -0.341862, -0.153595), speed: 107.096176
+
+Swipe id: 9, state: STATE_UPDATE, position: (31.549, 158.223, -37.497), direction: (0.875737, -0.26248, -0.405202), speed: 165.637375
+
+Swipe id: 5, state: STATE_UPDATE, position: (96.386, 141.285, -82.2138), direction: (0.929681, -0.289145, -0.228229), speed: 189.765518
+
+Swipe id: 6, state: STATE_UPDATE, position: (99.4707, 106.879, -96.2525), direction: (0.925884, -0.320794, -0.199576), speed: 174.877441
+
+Swipe id: 8, state: STATE_UPDATE, position: (90.2202, 75.2741, -91.2713), direction: (0.923507, -0.333361, -0.18975), speed: 148.782791
+
+Swipe id: 11, state: STATE_START, position: (59.1329, 44.6391, -77.332), direction: (0.927113, -0.341862, -0.153595), speed: 107.096176
+
+Swipe id: 9, state: STATE_END, position: (31.549, 158.223, -37.497), direction: (0.875737, -0.26248, -0.405202), speed: 165.637375
+
+Swipe id: 5, state: STATE_UPDATE, position: (96.386, 141.285, -82.2138), direction: (0.929681, -0.289145, -0.228229), speed: 189.765518
+
+Swipe id: 6, state: STATE_UPDATE, position: (99.4707, 106.879, -96.2525), direction: (0.925884, -0.320794, -0.199576), speed: 174.877441
+
+Swipe id: 8, state: STATE_UPDATE, position: (90.2202, 75.2741, -91.2713), direction: (0.923507, -0.333361, -0.18975), speed: 148.782791
+
+Swipe id: 11, state: STATE_START, position: (59.1329, 44.6391, -77.332), direction: (0.927113, -0.341862, -0.153595), speed: 107.096176
+
+Swipe id: 5, state: STATE_UPDATE, position: (96.386, 141.285, -82.2138), direction: (0.929681, -0.289145, -0.228229), speed: 189.765518
+
+Swipe id: 6, state: STATE_UPDATE, position: (99.4707, 106.879, -96.2525), direction: (0.925884, -0.320794, -0.199576), speed: 174.877441
+
+Swipe id: 8, state: STATE_UPDATE, position: (90.2202, 75.2741, -91.2713), direction: (0.923507, -0.333361, -0.18975), speed: 148.782791
+
+Swipe id: 11, state: STATE_START, position: (59.1329, 44.6391, -77.332), direction: (0.927113, -0.341862, -0.153595), speed: 107.096176
+
+Swipe id: 5, state: STATE_UPDATE, position: (96.386, 141.285, -82.2138), direction: (0.929681, -0.289145, -0.228229), speed: 189.765518
+
+Swipe id: 6, state: STATE_UPDATE, position: (99.4707, 106.879, -96.2525), direction: (0.925884, -0.320794, -0.199576), speed: 174.877441
+
+Swipe id: 8, state: STATE_UPDATE, position: (90.2202, 75.2741, -91.2713), direction: (0.923507, -0.333361, -0.18975), speed: 148.782791
+
+Swipe id: 11, state: STATE_END, position: (59.1329, 44.6391, -77.332), direction: (0.927113, -0.341862, -0.153595), speed: 107.096176
+
+Swipe id: 5, state: STATE_END, position: (96.386, 141.285, -82.2138), direction: (0.929681, -0.289145, -0.228229), speed: 189.765518
+
+Swipe id: 6, state: STATE_END, position: (99.4707, 106.879, -96.2525), direction: (0.925884, -0.320794, -0.199576), speed: 174.877441
+
+Swipe id: 8, state: STATE_END, position: (90.2202, 75.2741, -91.2713), direction: (0.923507, -0.333361, -0.18975), speed: 148.782791
+
+Swipe id: 1, state: STATE_START, position: (-205.05, 189.303, -29.6612), direction: (0.502614, -0.412664, -0.759663), speed: 280.643402
+
+Swipe id: 1, state: STATE_UPDATE, position: (-189.662, 180.709, -43.999), direction: (0.525112, -0.412017, -0.744647), speed: 265.637451
+
+Swipe id: 2, state: STATE_START, position: (-196.13, 153.631, -42.0845), direction: (0.56188, -0.424484, -0.710003), speed: 252.666779
+
+Swipe id: 3, state: STATE_START, position: (-152.896, 198.716, -43.7137), direction: (0.592422, -0.357878, -0.721775), speed: 254.511765
+
+Swipe id: 1, state: STATE_UPDATE, position: (-170.6, 173.015, -56.1381), direction: (0.579096, -0.397081, -0.712022), speed: 249.379532
+
+Swipe id: 2, state: STATE_UPDATE, position: (-177.761, 145.984, -53.0053), direction: (0.599697, -0.415948, -0.68363), speed: 236.050735
+
+Swipe id: 3, state: STATE_UPDATE, position: (-130.436, 191.815, -52.9041), direction: (0.657227, -0.346809, -0.669161), speed: 237.919235
+
+Swipe id: 1, state: STATE_UPDATE, position: (-146.958, 164.84, -65.8286), direction: (0.640943, -0.384661, -0.66425), speed: 230.439209
+
+Swipe id: 2, state: STATE_UPDATE, position: (-155.189, 138.088, -61.6245), direction: (0.662461, -0.402253, -0.631932), speed: 216.677750
+
+Swipe id: 3, state: STATE_UPDATE, position: (-104.779, 186.011, -60.8594), direction: (0.721792, -0.327112, -0.609929), speed: 221.996979
+
+Swipe id: 1, state: STATE_UPDATE, position: (-120.438, 158.467, -74.5931), direction: (0.700608, -0.363351, -0.614105), speed: 212.559021
+
+Swipe id: 2, state: STATE_UPDATE, position: (-129.859, 131.868, -70.2004), direction: (0.721616, -0.376386, -0.581037), speed: 197.940887
+
+Swipe id: 3, state: STATE_UPDATE, position: (-75.8126, 181.326, -66.5817), direction: (0.784813, -0.300108, -0.542221), speed: 207.508774
+
+Swipe id: 1, state: STATE_UPDATE, position: (-90.6288, 153.287, -81.289), direction: (0.759129, -0.33695, -0.556946), speed: 195.750732
+
+Swipe id: 2, state: STATE_UPDATE, position: (-101.677, 127.03, -77.0499), direction: (0.779517, -0.343968, -0.523487), speed: 180.032410
+
+Swipe id: 3, state: STATE_UPDATE, position: (-75.8126, 181.326, -66.5817), direction: (0.784813, -0.300108, -0.542221), speed: 207.508774
+
+Swipe id: 1, state: STATE_UPDATE, position: (-90.6288, 153.287, -81.289), direction: (0.759129, -0.33695, -0.556946), speed: 195.750732
+
+Swipe id: 2, state: STATE_UPDATE, position: (-70.6464, 122.58, -81.5753), direction: (0.812701, -0.323685, -0.484505), speed: 163.313553
+
+Swipe id: 3, state: STATE_UPDATE, position: (-75.8126, 181.326, -66.5817), direction: (0.784813, -0.300108, -0.542221), speed: 207.508774
+
+Swipe id: 1, state: STATE_UPDATE, position: (-90.6288, 153.287, -81.289), direction: (0.759129, -0.33695, -0.556946), speed: 195.750732
+
+Swipe id: 2, state: STATE_UPDATE, position: (-70.6464, 122.58, -81.5753), direction: (0.812701, -0.323685, -0.484505), speed: 163.313553
+
+Swipe id: 3, state: STATE_UPDATE, position: (-75.8126, 181.326, -66.5817), direction: (0.784813, -0.300108, -0.542221), speed: 207.508774
+
+Swipe id: 1, state: STATE_UPDATE, position: (-90.6288, 153.287, -81.289), direction: (0.759129, -0.33695, -0.556946), speed: 195.750732
+
+Swipe id: 2, state: STATE_UPDATE, position: (-70.6464, 122.58, -81.5753), direction: (0.812701, -0.323685, -0.484505), speed: 163.313553
+
+Swipe id: 3, state: STATE_UPDATE, position: (-75.8126, 181.326, -66.5817), direction: (0.784813, -0.300108, -0.542221), speed: 207.508774
+
+Swipe id: 1, state: STATE_UPDATE, position: (-90.6288, 153.287, -81.289), direction: (0.759129, -0.33695, -0.556946), speed: 195.750732
+
+Swipe id: 2, state: STATE_UPDATE, position: (-70.6464, 122.58, -81.5753), direction: (0.812701, -0.323685, -0.484505), speed: 163.313553
+
+Swipe id: 3, state: STATE_UPDATE, position: (-75.8126, 181.326, -66.5817), direction: (0.784813, -0.300108, -0.542221), speed: 207.508774
+
+Swipe id: 1, state: STATE_UPDATE, position: (-90.6288, 153.287, -81.289), direction: (0.759129, -0.33695, -0.556946), speed: 195.750732
+
+Swipe id: 2, state: STATE_UPDATE, position: (-70.6464, 122.58, -81.5753), direction: (0.812701, -0.323685, -0.484505), speed: 163.313553
+
+Swipe id: 3, state: STATE_END, position: (-75.8126, 181.326, -66.5817), direction: (0.784813, -0.300108, -0.542221), speed: 207.508774
+
+Swipe id: 1, state: STATE_END, position: (-90.6288, 153.287, -81.289), direction: (0.759129, -0.33695, -0.556946), speed: 195.750732
+
+Swipe id: 2, state: STATE_UPDATE, position: (95.0427, 82.9519, -54.4036), direction: (0.973613, -0.228169, 0.00416946), speed: 137.382263
+
+Swipe id: 4, state: STATE_START, position: (114.642, 156.079, 36.2343), direction: (0.958247, -0.210403, 0.193632), speed: 197.018219
+
+Swipe id: 2, state: STATE_UPDATE, position: (95.0427, 82.9519, -54.4036), direction: (0.973613, -0.228169, 0.00416946), speed: 137.382263
+
+Swipe id: 4, state: STATE_UPDATE, position: (128.698, 151.743, 41.1529), direction: (0.947765, -0.222479, 0.228569), speed: 203.181122
+
+Swipe id: 5, state: STATE_START, position: (158.1, 112.379, -14.8079), direction: (0.944126, -0.27904, 0.175392), speed: 194.534790
+
+Swipe id: 2, state: STATE_UPDATE, position: (95.0427, 82.9519, -54.4036), direction: (0.973613, -0.228169, 0.00416946), speed: 137.382263
+
+Swipe id: 4, state: STATE_UPDATE, position: (143.035, 145.526, 46.5827), direction: (0.947311, -0.232347, 0.220494), speed: 209.300980
+
+Swipe id: 5, state: STATE_UPDATE, position: (172.477, 100.265, -5.45137), direction: (0.919283, -0.317822, 0.232182), speed: 199.577118
+
+Swipe id: 6, state: STATE_START, position: (163.41, 68.5419, -19.3099), direction: (0.916935, -0.324267, 0.232554), speed: 178.251831
+
+Swipe id: 2, state: STATE_UPDATE, position: (95.0427, 82.9519, -54.4036), direction: (0.973613, -0.228169, 0.00416946), speed: 137.382263
+
+Swipe id: 4, state: STATE_UPDATE, position: (159.233, 141.965, 56.1666), direction: (0.919525, -0.254941, 0.299131), speed: 220.598877
+
+Swipe id: 5, state: STATE_UPDATE, position: (172.477, 100.265, -5.45137), direction: (0.919283, -0.317822, 0.232182), speed: 199.577118
+
+Swipe id: 6, state: STATE_START, position: (163.41, 68.5419, -19.3099), direction: (0.916935, -0.324267, 0.232554), speed: 178.251831
+
+Swipe id: 2, state: STATE_UPDATE, position: (95.0427, 82.9519, -54.4036), direction: (0.973613, -0.228169, 0.00416946), speed: 137.382263
+
+Swipe id: 4, state: STATE_UPDATE, position: (170.555, 136.811, 64.4498), direction: (0.901287, -0.273538, 0.335944), speed: 227.947449
+
+Swipe id: 5, state: STATE_UPDATE, position: (172.477, 100.265, -5.45137), direction: (0.919283, -0.317822, 0.232182), speed: 199.577118
+
+Swipe id: 6, state: STATE_START, position: (163.41, 68.5419, -19.3099), direction: (0.916935, -0.324267, 0.232554), speed: 178.251831
+
+Swipe id: 2, state: STATE_UPDATE, position: (95.0427, 82.9519, -54.4036), direction: (0.973613, -0.228169, 0.00416946), speed: 137.382263
+
+Swipe id: 4, state: STATE_UPDATE, position: (170.555, 136.811, 64.4498), direction: (0.901287, -0.273538, 0.335944), speed: 227.947449
+
+Swipe id: 5, state: STATE_UPDATE, position: (172.477, 100.265, -5.45137), direction: (0.919283, -0.317822, 0.232182), speed: 199.577118
+
+Swipe id: 6, state: STATE_START, position: (163.41, 68.5419, -19.3099), direction: (0.916935, -0.324267, 0.232554), speed: 178.251831
+
+Swipe id: 2, state: STATE_END, position: (95.0427, 82.9519, -54.4036), direction: (0.973613, -0.228169, 0.00416946), speed: 137.382263
+
+Swipe id: 4, state: STATE_UPDATE, position: (170.555, 136.811, 64.4498), direction: (0.901287, -0.273538, 0.335944), speed: 227.947449
+
+Swipe id: 5, state: STATE_UPDATE, position: (172.477, 100.265, -5.45137), direction: (0.919283, -0.317822, 0.232182), speed: 199.577118
+
+Swipe id: 6, state: STATE_START, position: (163.41, 68.5419, -19.3099), direction: (0.916935, -0.324267, 0.232554), speed: 178.251831
+
+Swipe id: 4, state: STATE_UPDATE, position: (170.555, 136.811, 64.4498), direction: (0.901287, -0.273538, 0.335944), speed: 227.947449
+
+Swipe id: 5, state: STATE_UPDATE, position: (172.477, 100.265, -5.45137), direction: (0.919283, -0.317822, 0.232182), speed: 199.577118
+
+Swipe id: 6, state: STATE_START, position: (163.41, 68.5419, -19.3099), direction: (0.916935, -0.324267, 0.232554), speed: 178.251831
+
+Swipe id: 4, state: STATE_UPDATE, position: (170.555, 136.811, 64.4498), direction: (0.901287, -0.273538, 0.335944), speed: 227.947449
+
+Swipe id: 5, state: STATE_END, position: (172.477, 100.265, -5.45137), direction: (0.919283, -0.317822, 0.232182), speed: 199.577118
+
+Swipe id: 6, state: STATE_END, position: (163.41, 68.5419, -19.3099), direction: (0.916935, -0.324267, 0.232554), speed: 178.251831
+
+Swipe id: 4, state: STATE_UPDATE, position: (170.555, 136.811, 64.4498), direction: (0.901287, -0.273538, 0.335944), speed: 227.947449
+
+Swipe id: 4, state: STATE_END, position: (170.555, 136.811, 64.4498), direction: (0.901287, -0.273538, 0.335944), speed: 227.947449
+
+Swipe id: 1, state: STATE_START, position: (-152.594, 179.914, -10.8916), direction: (0.300462, -0.529976, -0.793), speed: 236.162018
+
+Swipe id: 2, state: STATE_START, position: (-95.6274, 171.97, 29.9778), direction: (0.42564, -0.407716, -0.807835), speed: 199.040237
+
+Swipe id: 1, state: STATE_UPDATE, position: (-138.24, 170.982, -23.9056), direction: (0.388062, -0.512284, -0.766142), speed: 221.170532
+
+Swipe id: 3, state: STATE_START, position: (-154.642, 100.59, -25.0179), direction: (0.441326, -0.603272, -0.6643), speed: 186.167664
+
+Swipe id: 2, state: STATE_UPDATE, position: (-82.8368, 167.56, 22.4528), direction: (0.505923, -0.39462, -0.767018), speed: 188.261734
+
+Swipe id: 1, state: STATE_UPDATE, position: (-121.279, 163.009, -36.2888), direction: (0.47185, -0.488323, -0.734097), speed: 206.391815
+
+Swipe id: 3, state: STATE_UPDATE, position: (-137.699, 91.9124, -35.6739), direction: (0.511106, -0.573384, -0.640314), speed: 169.355820
+
+Swipe id: 2, state: STATE_UPDATE, position: (-68.9714, 164.804, 15.768), direction: (0.583433, -0.370325, -0.722818), speed: 179.349304
+
+Swipe id: 1, state: STATE_UPDATE, position: (-101.916, 156.301, -48.0807), direction: (0.550342, -0.457609, -0.698368), speed: 192.687943
+
+Swipe id: 4, state: STATE_START, position: (-114.943, 136.175, -62.5185), direction: (0.55489, -0.49447, -0.669027), speed: 188.849472
+
+Swipe id: 3, state: STATE_UPDATE, position: (-118.682, 84.466, -46.0915), direction: (0.577319, -0.538174, -0.614061), speed: 152.788544
+
+Swipe id: 2, state: STATE_UPDATE, position: (-68.9714, 164.804, 15.768), direction: (0.583433, -0.370325, -0.722818), speed: 179.349304
+
+Swipe id: 1, state: STATE_UPDATE, position: (-79.346, 150.05, -58.1635), direction: (0.627555, -0.425565, -0.651974), speed: 179.426132
+
+Swipe id: 4, state: STATE_UPDATE, position: (-90.6311, 129.01, -72.9644), direction: (0.632821, -0.457767, -0.624489), speed: 173.727890
+
+Swipe id: 3, state: STATE_UPDATE, position: (-96.9996, 77.3639, -54.6684), direction: (0.642582, -0.502985, -0.578009), speed: 135.582947
+
+Swipe id: 2, state: STATE_UPDATE, position: (-68.9714, 164.804, 15.768), direction: (0.583433, -0.370325, -0.722818), speed: 179.349304
+
+Swipe id: 1, state: STATE_UPDATE, position: (-79.346, 150.05, -58.1635), direction: (0.627555, -0.425565, -0.651974), speed: 179.426132
+
+Swipe id: 4, state: STATE_UPDATE, position: (-90.6311, 129.01, -72.9644), direction: (0.632821, -0.457767, -0.624489), speed: 173.727890
+
+Swipe id: 5, state: STATE_START, position: (-74.3336, 97.7274, -78.8021), direction: (0.72825, -0.42788, -0.535323), speed: 145.896896
+
+Swipe id: 3, state: STATE_UPDATE, position: (-72.94, 71.1451, -61.9735), direction: (0.704435, -0.465168, -0.536088), speed: 119.258461
+
+Swipe id: 2, state: STATE_UPDATE, position: (-68.9714, 164.804, 15.768), direction: (0.583433, -0.370325, -0.722818), speed: 179.349304
+
+Swipe id: 4, state: STATE_UPDATE, position: (-90.6311, 129.01, -72.9644), direction: (0.632821, -0.457767, -0.624489), speed: 173.727890
+
+Swipe id: 5, state: STATE_UPDATE, position: (-46.2436, 92.1949, -84.1269), direction: (0.761081, -0.408581, -0.503804), speed: 133.100403
+
+Swipe id: 3, state: STATE_UPDATE, position: (-47.4113, 66.4644, -65.9494), direction: (0.764498, -0.425793, -0.483987), speed: 104.950752
+
+Swipe id: 2, state: STATE_UPDATE, position: (-68.9714, 164.804, 15.768), direction: (0.583433, -0.370325, -0.722818), speed: 179.349304
+
+Swipe id: 4, state: STATE_UPDATE, position: (-90.6311, 129.01, -72.9644), direction: (0.632821, -0.457767, -0.624489), speed: 173.727890
+
+Swipe id: 5, state: STATE_UPDATE, position: (-46.2436, 92.1949, -84.1269), direction: (0.761081, -0.408581, -0.503804), speed: 133.100403
+
+Swipe id: 3, state: STATE_UPDATE, position: (-47.4113, 66.4644, -65.9494), direction: (0.764498, -0.425793, -0.483987), speed: 104.950752
+
+Swipe id: 2, state: STATE_UPDATE, position: (-68.9714, 164.804, 15.768), direction: (0.583433, -0.370325, -0.722818), speed: 179.349304
+
+Swipe id: 4, state: STATE_UPDATE, position: (-90.6311, 129.01, -72.9644), direction: (0.632821, -0.457767, -0.624489), speed: 173.727890
+
+Swipe id: 5, state: STATE_UPDATE, position: (15.9795, 73.3406, -82.4801), direction: (0.893014, -0.33469, -0.300846), speed: 111.522026
+
+Swipe id: 2, state: STATE_END, position: (-68.9714, 164.804, 15.768), direction: (0.583433, -0.370325, -0.722818), speed: 179.349304
+
+Swipe id: 4, state: STATE_UPDATE, position: (-90.6311, 129.01, -72.9644), direction: (0.632821, -0.457767, -0.624489), speed: 173.727890
+
+Swipe id: 5, state: STATE_UPDATE, position: (15.9795, 73.3406, -82.4801), direction: (0.893014, -0.33469, -0.300846), speed: 111.522026
+
+Swipe id: 4, state: STATE_END, position: (-90.6311, 129.01, -72.9644), direction: (0.632821, -0.457767, -0.624489), speed: 173.727890
+
+Swipe id: 5, state: STATE_UPDATE, position: (15.9795, 73.3406, -82.4801), direction: (0.893014, -0.33469, -0.300846), speed: 111.522026
+
+Swipe id: 5, state: STATE_UPDATE, position: (15.9795, 73.3406, -82.4801), direction: (0.893014, -0.33469, -0.300846), speed: 111.522026
+
+Swipe id: 5, state: STATE_UPDATE, position: (15.9795, 73.3406, -82.4801), direction: (0.893014, -0.33469, -0.300846), speed: 111.522026
+
+Swipe id: 5, state: STATE_UPDATE, position: (15.9795, 73.3406, -82.4801), direction: (0.893014, -0.33469, -0.300846), speed: 111.522026
+
+Swipe id: 5, state: STATE_END, position: (15.9795, 73.3406, -82.4801), direction: (0.893014, -0.33469, -0.300846), speed: 111.522026
+
+Key Tap id: 1, STATE_END, position: (-21.8712, 234.216, -32.4513), direction: (0.170759, -0.800516, -0.57447)
+
+Key Tap id: 2, STATE_END, position: (23.5264, 187.502, 29.9474), direction: (0.186661, -0.811085, -0.554346)
+
+Key Tap id: 3, STATE_END, position: (-28.7552, 224.491, -44.4838), direction: (-0.0716454, -0.946626, -0.31427)
+
+Key Tap id: 4, STATE_END, position: (-50.7951, 194.753, -40.9064), direction: (0.193602, -0.942624, 0.271988)
+
+Key Tap id: 5, STATE_END, position: (24.3972, 175.465, 41.8748), direction: (-0.138577, -0.892423, -0.429393)
+
+Key Tap id: 6, STATE_END, position: (-26.6949, 216.804, -47.564), direction: (0.299796, -0.882106, -0.363335)
+
+Key Tap id: 7, STATE_END, position: (-84.2859, 185.534, -32.3991), direction: (0.136873, -0.98672, -0.087459)
+
+Key Tap id: 8, STATE_END, position: (-25.2292, 203.164, -52.6693), direction: (0.0751804, -0.906959, -0.414456)
+
+Key Tap id: 9, STATE_END, position: (-51.1263, 190.741, -47.2375), direction: (0.0786343, -0.977271, 0.196871)
+
+Key Tap id: 10, STATE_END, position: (-21.2337, 204.103, -49.1366), direction: (0.207267, -0.978238, 0.00956875)
+
+Key Tap id: 11, STATE_END, position: (-1.49047, 193.275, -42.2974), direction: (0.339584, -0.940511, -0.0110217)
+
+Key Tap id: 12, STATE_END, position: (22.5864, 182.055, -21.4419), direction: (0.0208189, -0.984119, -0.176287)
+
+Key Tap id: 13, STATE_END, position: (15.6049, 190.316, -36.1866), direction: (0.245222, -0.964181, -0.101098)
+
+Key Tap id: 14, STATE_END, position: (41.9471, 197.844, -13.2523), direction: (0.309519, -0.942037, -0.129476)
+
+Key Tap id: 15, STATE_END, position: (-8.78273, 174.564, -33.834), direction: (-0.241031, -0.96389, -0.113225)
+
+Key Tap id: 16, STATE_END, position: (-29.5328, 180.359, -24.2365), direction: (0.118846, -0.992137, -0.0392376)
+
+Swipe id: 17, state: STATE_START, position: (56.7309, 159.346, 17.6808), direction: (0.201176, -0.569697, -0.796852), speed: 170.064743
+
+Swipe id: 17, state: STATE_UPDATE, position: (56.2936, 156.982, 14.4974), direction: (0.17377, -0.593013, -0.786219), speed: 167.398788
+
+Swipe id: 17, state: STATE_UPDATE, position: (56.2936, 156.982, 14.4974), direction: (0.17377, -0.593013, -0.786219), speed: 167.398788
+
+Swipe id: 17, state: STATE_UPDATE, position: (56.2936, 156.982, 14.4974), direction: (0.17377, -0.593013, -0.786219), speed: 167.398788
+
+Swipe id: 17, state: STATE_UPDATE, position: (56.2936, 156.982, 14.4974), direction: (0.17377, -0.593013, -0.786219), speed: 167.398788
+
+Swipe id: 17, state: STATE_END, position: (56.2936, 156.982, 14.4974), direction: (0.17377, -0.593013, -0.786219), speed: 167.398788
+
+Screen Tap id: 18, STATE_END, position: (21.7712, 158.827, -59.3265), direction: (0.059546, 0.757853, 0.649702)
+
+Screen Tap id: 19, STATE_END, position: (-9.1548, 176.988, -73.3422), direction: (0.0682064, 0.66622, 0.74263)
+
+Key Tap id: 20, STATE_END, position: (24.9223, 158.456, -71.5442), direction: (-nan, -nan, -nan)
+
+Key Tap id: 21, STATE_END, position: (-10.5157, 185.395, -83.9657), direction: (-nan, -nan, -nan)
+
+Key Tap id: 22, STATE_END, position: (-50.2716, 191.447, -75.8795), direction: (-nan, -nan, -nan)
+
+Key Tap id: 23, STATE_END, position: (-74.1304, 176.088, -54.681), direction: (-nan, -nan, -nan)
+
+Key Tap id: 24, STATE_END, position: (57.9213, 155.483, -8.06653), direction: (0.085511, -0.880173, -0.466887)
+
+Screen Tap id: 25, STATE_END, position: (26.746, 158.281, -74.7545), direction: (0.0893218, 0.852738, 0.514645)
+
+Key Tap id: 26, STATE_END, position: (53.3817, 181.971, 10.5192), direction: (0.0960872, -0.843631, -0.528255)
+
+Screen Tap id: 27, STATE_END, position: (-5.03924, 172.091, -79.8019), direction: (-0.324222, 0.687178, 0.650128)
+
+Screen Tap id: 28, STATE_END, position: (24.446, 174.581, -64.9217), direction: (-0.320379, 0.708061, 0.629291)
+
+Swipe id: 35, state: STATE_START, position: (33.6059, 117.838, -62.7809), direction: (-0.698174, -0.17714, -0.693667), speed: 137.683228
+
+Swipe id: 36, state: STATE_START, position: (10.0936, 91.9548, -53.6965), direction: (-0.744374, -0.154076, -0.649745), speed: 106.962105
+
+Swipe id: 35, state: STATE_UPDATE, position: (6.98864, 115.557, -72.9892), direction: (-0.750809, -0.166381, -0.639221), speed: 136.856110
+
+Swipe id: 36, state: STATE_UPDATE, position: (-17.1709, 91.1658, -60.9177), direction: (-0.781865, -0.137444, -0.608109), speed: 110.982018
+
+Swipe id: 37, state: STATE_START, position: (-1.69019, 139.695, -81.4871), direction: (-0.758174, -0.174894, -0.628159), speed: 161.733444
+
+Swipe id: 35, state: STATE_UPDATE, position: (-20.623, 114.776, -80.2451), direction: (-0.784407, -0.148484, -0.602211), speed: 141.555878
+
+Swipe id: 36, state: STATE_UPDATE, position: (-44.5646, 91.9289, -64.9305), direction: (-0.829493, -0.117481, -0.546022), speed: 121.049194
+
+Swipe id: 37, state: STATE_UPDATE, position: (-27.8828, 139.401, -88.1426), direction: (-0.811783, -0.148592, -0.564738), speed: 167.269562
+
+Swipe id: 35, state: STATE_UPDATE, position: (-48.3195, 115.538, -84.4728), direction: (-0.831391, -0.128309, -0.540672), speed: 151.060913
+
+Swipe id: 36, state: STATE_UPDATE, position: (-44.5646, 91.9289, -64.9305), direction: (-0.829493, -0.117481, -0.546022), speed: 121.049194
+
+Swipe id: 37, state: STATE_UPDATE, position: (-53.4174, 140.085, -91.6631), direction: (-0.86189, -0.120089, -0.492671), speed: 175.725082
+
+Swipe id: 35, state: STATE_UPDATE, position: (-74.7471, 117.35, -85.5091), direction: (-0.875728, -0.103621, -0.471555), speed: 163.309235
+
+Swipe id: 36, state: STATE_UPDATE, position: (-44.5646, 91.9289, -64.9305), direction: (-0.829493, -0.117481, -0.546022), speed: 121.049194
+
+Swipe id: 37, state: STATE_UPDATE, position: (-78.2955, 142.5, -92.9581), direction: (-0.9055, -0.0841062, -0.415928), speed: 187.290588
+
+Swipe id: 35, state: STATE_UPDATE, position: (-74.7471, 117.35, -85.5091), direction: (-0.875728, -0.103621, -0.471555), speed: 163.309235
+
+Swipe id: 36, state: STATE_UPDATE, position: (-44.5646, 91.9289, -64.9305), direction: (-0.829493, -0.117481, -0.546022), speed: 121.049194
+
+Swipe id: 37, state: STATE_UPDATE, position: (-101.666, 146.642, -92.2152), direction: (-0.940814, -0.0417942, -0.336337), speed: 200.857254
+
+Swipe id: 35, state: STATE_UPDATE, position: (-74.7471, 117.35, -85.5091), direction: (-0.875728, -0.103621, -0.471555), speed: 163.309235
+
+Swipe id: 36, state: STATE_UPDATE, position: (-44.5646, 91.9289, -64.9305), direction: (-0.829493, -0.117481, -0.546022), speed: 121.049194
+
+Swipe id: 37, state: STATE_UPDATE, position: (-101.666, 146.642, -92.2152), direction: (-0.940814, -0.0417942, -0.336337), speed: 200.857254
+
+Swipe id: 35, state: STATE_UPDATE, position: (-74.7471, 117.35, -85.5091), direction: (-0.875728, -0.103621, -0.471555), speed: 163.309235
+
+Swipe id: 36, state: STATE_UPDATE, position: (-44.5646, 91.9289, -64.9305), direction: (-0.829493, -0.117481, -0.546022), speed: 121.049194
+
+Swipe id: 37, state: STATE_UPDATE, position: (-101.666, 146.642, -92.2152), direction: (-0.940814, -0.0417942, -0.336337), speed: 200.857254
+
+Swipe id: 35, state: STATE_UPDATE, position: (-74.7471, 117.35, -85.5091), direction: (-0.875728, -0.103621, -0.471555), speed: 163.309235
+
+Swipe id: 36, state: STATE_END, position: (-44.5646, 91.9289, -64.9305), direction: (-0.829493, -0.117481, -0.546022), speed: 121.049194
+
+Swipe id: 37, state: STATE_UPDATE, position: (-157.571, 163.271, -81.7666), direction: (-0.990744, 0.0978238, -0.0941069), speed: 241.188156
+
+Swipe id: 35, state: STATE_UPDATE, position: (-74.7471, 117.35, -85.5091), direction: (-0.875728, -0.103621, -0.471555), speed: 163.309235
+
+Swipe id: 37, state: STATE_UPDATE, position: (-172.1, 169.853, -77.0897), direction: (-0.988463, 0.150174, -0.0197006), speed: 253.793854
+
+Swipe id: 35, state: STATE_END, position: (-74.7471, 117.35, -85.5091), direction: (-0.875728, -0.103621, -0.471555), speed: 163.309235
+
+Swipe id: 37, state: STATE_UPDATE, position: (-172.1, 169.853, -77.0897), direction: (-0.988463, 0.150174, -0.0197006), speed: 253.793854
+
+Swipe id: 37, state: STATE_UPDATE, position: (-172.1, 169.853, -77.0897), direction: (-0.988463, 0.150174, -0.0197006), speed: 253.793854
+
+Swipe id: 38, state: STATE_START, position: (-221.026, 138.411, -26.7062), direction: (-0.956037, 0.235122, 0.175243), speed: 262.151184
+
+Swipe id: 37, state: STATE_UPDATE, position: (-172.1, 169.853, -77.0897), direction: (-0.988463, 0.150174, -0.0197006), speed: 253.793854
+
+Swipe id: 38, state: STATE_UPDATE, position: (-229.44, 143.042, -22.4077), direction: (-0.95964, 0.231169, 0.160162), speed: 271.304047
+
+Swipe id: 37, state: STATE_UPDATE, position: (-172.1, 169.853, -77.0897), direction: (-0.988463, 0.150174, -0.0197006), speed: 253.793854
+
+Swipe id: 39, state: STATE_START, position: (-231.988, 171.452, -41.6422), direction: (-0.95361, 0.253803, 0.161904), speed: 291.459351
+
+Swipe id: 38, state: STATE_UPDATE, position: (-236.804, 147.358, -17.5809), direction: (-0.940118, 0.264668, 0.214776), speed: 279.462830
+
+Swipe id: 37, state: STATE_UPDATE, position: (-172.1, 169.853, -77.0897), direction: (-0.988463, 0.150174, -0.0197006), speed: 253.793854
+
+Swipe id: 39, state: STATE_START, position: (-231.988, 171.452, -41.6422), direction: (-0.95361, 0.253803, 0.161904), speed: 291.459351
+
+Swipe id: 38, state: STATE_UPDATE, position: (-242.075, 150.391, -13.1482), direction: (-0.91833, 0.293325, 0.265764), speed: 285.290070
+
+Swipe id: 37, state: STATE_END, position: (-172.1, 169.853, -77.0897), direction: (-0.988463, 0.150174, -0.0197006), speed: 253.793854
+
+Swipe id: 39, state: STATE_START, position: (-231.988, 171.452, -41.6422), direction: (-0.95361, 0.253803, 0.161904), speed: 291.459351
+
+Swipe id: 40, state: STATE_START, position: (-147.093, 219.628, 6.38761), direction: (-0.914299, 0.353129, 0.198387), speed: 264.411743
+
+Swipe id: 39, state: STATE_UPDATE, position: (-248.226, 183.066, -27.0846), direction: (-0.912337, 0.314834, 0.261764), speed: 309.617310
+
+Swipe id: 40, state: STATE_START, position: (-147.093, 219.628, 6.38761), direction: (-0.914299, 0.353129, 0.198387), speed: 264.411743
+
+Swipe id: 41, state: STATE_START, position: (-208.704, 228.223, -34.311), direction: (-0.872067, 0.38707, 0.29946), speed: 311.159210
+
+Swipe id: 42, state: STATE_START, position: (-236.248, 207.814, -37.0168), direction: (-0.862807, 0.377158, 0.336624), speed: 316.811890
+
+Swipe id: 39, state: STATE_UPDATE, position: (-250.89, 185.392, -23.3655), direction: (-0.846664, 0.382161, 0.370287), speed: 312.828827
+
+Swipe id: 40, state: STATE_START, position: (-147.093, 219.628, 6.38761), direction: (-0.914299, 0.353129, 0.198387), speed: 264.411743
+
+Swipe id: 41, state: STATE_UPDATE, position: (-211.735, 231.751, -30.165), direction: (-0.835725, 0.419152, 0.35479), speed: 315.357574
+
+Swipe id: 42, state: STATE_UPDATE, position: (-239.359, 211.539, -32.6332), direction: (-0.826815, 0.408085, 0.387097), speed: 321.101501
+
+Swipe id: 39, state: STATE_UPDATE, position: (-253.644, 189.107, -19.1357), direction: (-0.809815, 0.413648, 0.416048), speed: 316.959045
+
+Swipe id: 40, state: STATE_START, position: (-147.093, 219.628, 6.38761), direction: (-0.914299, 0.353129, 0.198387), speed: 264.411743
+
+Swipe id: 41, state: STATE_UPDATE, position: (-213.412, 234.794, -26.2743), direction: (-0.794827, 0.448409, 0.408876), speed: 318.376221
+
+Swipe id: 42, state: STATE_UPDATE, position: (-240.89, 214.509, -29.1478), direction: (-0.788161, 0.436389, 0.434012), speed: 323.869934
+
+Swipe id: 39, state: STATE_UPDATE, position: (-254.851, 191.706, -16.2457), direction: (-0.772332, 0.441463, 0.456743), speed: 319.318787
+
+Swipe id: 40, state: STATE_START, position: (-147.093, 219.628, 6.38761), direction: (-0.914299, 0.353129, 0.198387), speed: 264.411743
+
+Swipe id: 41, state: STATE_UPDATE, position: (-214.143, 237.039, -23.3933), direction: (-0.752813, 0.472834, 0.457931), speed: 320.299835
+
+Swipe id: 42, state: STATE_UPDATE, position: (-241.41, 216.685, -26.7006), direction: (-0.748288, 0.46117, 0.476852), speed: 325.490967
+
+Swipe id: 39, state: STATE_UPDATE, position: (-255.147, 193.722, -14.2613), direction: (-0.682615, 0.491849, 0.540482), speed: 320.673828
+
+Swipe id: 40, state: STATE_START, position: (-147.093, 219.628, 6.38761), direction: (-0.914299, 0.353129, 0.198387), speed: 264.411743
+
+Swipe id: 41, state: STATE_UPDATE, position: (-214.28, 238.779, -21.1949), direction: (-0.65247, 0.513688, 0.557143), speed: 321.528381
+
+Swipe id: 42, state: STATE_UPDATE, position: (-241.666, 218.773, -24.4048), direction: (-0.704072, 0.484972, 0.518734), speed: 326.893768
+
+Swipe id: 39, state: STATE_UPDATE, position: (-255.147, 193.722, -14.2613), direction: (-0.682615, 0.491849, 0.540482), speed: 320.673828
+
+Swipe id: 40, state: STATE_END, position: (-147.093, 219.628, 6.38761), direction: (-0.914299, 0.353129, 0.198387), speed: 264.411743
+
+Swipe id: 41, state: STATE_UPDATE, position: (-214.28, 238.779, -21.1949), direction: (-0.65247, 0.513688, 0.557143), speed: 321.528381
+
+Swipe id: 42, state: STATE_UPDATE, position: (-241.666, 218.773, -24.4048), direction: (-0.704072, 0.484972, 0.518734), speed: 326.893768
+
+Swipe id: 39, state: STATE_UPDATE, position: (-255.147, 193.722, -14.2613), direction: (-0.682615, 0.491849, 0.540482), speed: 320.673828
+
+Swipe id: 41, state: STATE_UPDATE, position: (-214.28, 238.779, -21.1949), direction: (-0.65247, 0.513688, 0.557143), speed: 321.528381
+
+Swipe id: 42, state: STATE_UPDATE, position: (-241.666, 218.773, -24.4048), direction: (-0.704072, 0.484972, 0.518734), speed: 326.893768
+
+Swipe id: 39, state: STATE_UPDATE, position: (-255.147, 193.722, -14.2613), direction: (-0.682615, 0.491849, 0.540482), speed: 320.673828
+
+Swipe id: 41, state: STATE_UPDATE, position: (-214.28, 238.779, -21.1949), direction: (-0.65247, 0.513688, 0.557143), speed: 321.528381
+
+Swipe id: 42, state: STATE_UPDATE, position: (-241.666, 218.773, -24.4048), direction: (-0.704072, 0.484972, 0.518734), speed: 326.893768
+
+Swipe id: 39, state: STATE_UPDATE, position: (-255.147, 193.722, -14.2613), direction: (-0.682615, 0.491849, 0.540482), speed: 320.673828
+
+Swipe id: 41, state: STATE_UPDATE, position: (-214.28, 238.779, -21.1949), direction: (-0.65247, 0.513688, 0.557143), speed: 321.528381
+
+Swipe id: 42, state: STATE_UPDATE, position: (-241.666, 218.773, -24.4048), direction: (-0.704072, 0.484972, 0.518734), speed: 326.893768
+
+Swipe id: 39, state: STATE_UPDATE, position: (-255.147, 193.722, -14.2613), direction: (-0.682615, 0.491849, 0.540482), speed: 320.673828
+
+Swipe id: 41, state: STATE_UPDATE, position: (-214.28, 238.779, -21.1949), direction: (-0.65247, 0.513688, 0.557143), speed: 321.528381
+
+Swipe id: 42, state: STATE_UPDATE, position: (-241.666, 218.773, -24.4048), direction: (-0.704072, 0.484972, 0.518734), speed: 326.893768
+
+Swipe id: 39, state: STATE_END, position: (-255.147, 193.722, -14.2613), direction: (-0.682615, 0.491849, 0.540482), speed: 320.673828
+
+Swipe id: 41, state: STATE_END, position: (-214.28, 238.779, -21.1949), direction: (-0.65247, 0.513688, 0.557143), speed: 321.528381
+
+Swipe id: 42, state: STATE_END, position: (-241.666, 218.773, -24.4048), direction: (-0.704072, 0.484972, 0.518734), speed: 326.893768
+
+Swipe id: 43, state: STATE_START, position: (-48.41, 170.309, -83.5368), direction: (0.897093, -0.300738, -0.3237), speed: 195.773117
+
+Swipe id: 44, state: STATE_START, position: (-66.8343, 145.609, -79.7701), direction: (0.882045, -0.316633, -0.348913), speed: 178.975281
+
+Swipe id: 45, state: STATE_START, position: (4.16109, 193.897, 7.87423), direction: (0.965058, -0.25653, -0.0534348), speed: 194.101059
+
+Swipe id: 43, state: STATE_UPDATE, position: (-20.2826, 162.649, -80.4553), direction: (0.916473, -0.296732, -0.268379), speed: 182.590103
+
+Swipe id: 44, state: STATE_UPDATE, position: (-40.9257, 138.567, -78.0982), direction: (0.902567, -0.309626, -0.299173), speed: 164.240616
+
+Swipe id: 45, state: STATE_UPDATE, position: (22.033, 188.935, 15.8301), direction: (0.965885, -0.258972, -0.000104444), speed: 190.872986
+
+Swipe id: 46, state: STATE_START, position: (15.8665, 181.536, -57.2055), direction: (0.944999, -0.286936, -0.156984), speed: 190.995911
+
+Swipe id: 43, state: STATE_UPDATE, position: (5.99724, 156.132, -74.1889), direction: (0.934483, -0.293801, -0.201053), speed: 172.965714
+
+Swipe id: 44, state: STATE_UPDATE, position: (-16.7149, 133.091, -73.7566), direction: (0.922313, -0.304648, -0.237756), speed: 153.077576
+
+Swipe id: 45, state: STATE_UPDATE, position: (39.4368, 183.638, 24.8357), direction: (0.962276, -0.26095, 0.0770078), speed: 189.460190
+
+Swipe id: 46, state: STATE_UPDATE, position: (39.8885, 176.378, -48.5837), direction: (0.953522, -0.281191, -0.10829), speed: 187.244919
+
+Swipe id: 43, state: STATE_UPDATE, position: (30.694, 151.123, -66.2717), direction: (0.949598, -0.284577, -0.131453), speed: 167.846283
+
+Swipe id: 44, state: STATE_UPDATE, position: (6.17618, 129.336, -68.2365), direction: (0.936036, -0.291416, -0.197263), speed: 146.363312
+
+Swipe id: 45, state: STATE_UPDATE, position: (55.3565, 179.125, 34.9372), direction: (0.958089, -0.261434, 0.117126), speed: 190.710663
+
+Swipe id: 46, state: STATE_UPDATE, position: (61.9612, 172.315, -38.2961), direction: (0.962533, -0.269352, -0.0313086), speed: 187.077911
+
+Swipe id: 43, state: STATE_UPDATE, position: (53.1339, 147.638, -56.9704), direction: (0.960908, -0.270448, -0.0592727), speed: 166.930405
+
+Swipe id: 44, state: STATE_UPDATE, position: (27.4155, 126.952, -61.4161), direction: (0.950319, -0.277954, -0.140124), speed: 143.667114
+
+Swipe id: 45, state: STATE_UPDATE, position: (70.2151, 174.859, 45.8531), direction: (0.947505, -0.259381, 0.186962), speed: 193.929123
+
+Swipe id: 46, state: STATE_UPDATE, position: (61.9612, 172.315, -38.2961), direction: (0.962533, -0.269352, -0.0313086), speed: 187.077911
+
+Swipe id: 43, state: STATE_UPDATE, position: (53.1339, 147.638, -56.9704), direction: (0.960908, -0.270448, -0.0592727), speed: 166.930405
+
+Swipe id: 44, state: STATE_UPDATE, position: (47.55, 125.635, -53.5482), direction: (0.962424, -0.259739, -0.0792135), speed: 144.611557
+
+Swipe id: 47, state: STATE_START, position: (16.34, 107.53, -45.0928), direction: (0.975906, -0.21588, -0.0316778), speed: 117.741486
+
+Swipe id: 45, state: STATE_UPDATE, position: (70.2151, 174.859, 45.8531), direction: (0.947505, -0.259381, 0.186962), speed: 193.929123
+
+Swipe id: 46, state: STATE_UPDATE, position: (61.9612, 172.315, -38.2961), direction: (0.962533, -0.269352, -0.0313086), speed: 187.077911
+
+Swipe id: 43, state: STATE_UPDATE, position: (53.1339, 147.638, -56.9704), direction: (0.960908, -0.270448, -0.0592727), speed: 166.930405
+
+Swipe id: 44, state: STATE_UPDATE, position: (47.55, 125.635, -53.5482), direction: (0.962424, -0.259739, -0.0792135), speed: 144.611557
+
+Swipe id: 47, state: STATE_UPDATE, position: (34.6617, 107.067, -38.0623), direction: (0.977971, -0.208344, -0.0128613), speed: 118.800339
+
+Swipe id: 45, state: STATE_UPDATE, position: (70.2151, 174.859, 45.8531), direction: (0.947505, -0.259381, 0.186962), speed: 193.929123
+
+Swipe id: 46, state: STATE_UPDATE, position: (61.9612, 172.315, -38.2961), direction: (0.962533, -0.269352, -0.0313086), speed: 187.077911
+
+Swipe id: 43, state: STATE_UPDATE, position: (53.1339, 147.638, -56.9704), direction: (0.960908, -0.270448, -0.0592727), speed: 166.930405
+
+Swipe id: 44, state: STATE_UPDATE, position: (47.55, 125.635, -53.5482), direction: (0.962424, -0.259739, -0.0792135), speed: 144.611557
+
+Swipe id: 47, state: STATE_UPDATE, position: (34.6617, 107.067, -38.0623), direction: (0.977971, -0.208344, -0.0128613), speed: 118.800339
+
+Swipe id: 45, state: STATE_UPDATE, position: (70.2151, 174.859, 45.8531), direction: (0.947505, -0.259381, 0.186962), speed: 193.929123
+
+Swipe id: 46, state: STATE_UPDATE, position: (61.9612, 172.315, -38.2961), direction: (0.962533, -0.269352, -0.0313086), speed: 187.077911
+
+Swipe id: 43, state: STATE_UPDATE, position: (53.1339, 147.638, -56.9704), direction: (0.960908, -0.270448, -0.0592727), speed: 166.930405
+
+Swipe id: 44, state: STATE_UPDATE, position: (47.55, 125.635, -53.5482), direction: (0.962424, -0.259739, -0.0792135), speed: 144.611557
+
+Swipe id: 47, state: STATE_UPDATE, position: (34.6617, 107.067, -38.0623), direction: (0.977971, -0.208344, -0.0128613), speed: 118.800339
+
+Swipe id: 45, state: STATE_UPDATE, position: (70.2151, 174.859, 45.8531), direction: (0.947505, -0.259381, 0.186962), speed: 193.929123
+
+Swipe id: 46, state: STATE_UPDATE, position: (61.9612, 172.315, -38.2961), direction: (0.962533, -0.269352, -0.0313086), speed: 187.077911
+
+Swipe id: 43, state: STATE_UPDATE, position: (53.1339, 147.638, -56.9704), direction: (0.960908, -0.270448, -0.0592727), speed: 166.930405
+
+Swipe id: 44, state: STATE_UPDATE, position: (47.55, 125.635, -53.5482), direction: (0.962424, -0.259739, -0.0792135), speed: 144.611557
+
+Swipe id: 47, state: STATE_UPDATE, position: (34.6617, 107.067, -38.0623), direction: (0.977971, -0.208344, -0.0128613), speed: 118.800339
+
+Swipe id: 45, state: STATE_UPDATE, position: (70.2151, 174.859, 45.8531), direction: (0.947505, -0.259381, 0.186962), speed: 193.929123
+
+Swipe id: 43, state: STATE_END, position: (53.1339, 147.638, -56.9704), direction: (0.960908, -0.270448, -0.0592727), speed: 166.930405
+
+Swipe id: 44, state: STATE_UPDATE, position: (47.55, 125.635, -53.5482), direction: (0.962424, -0.259739, -0.0792135), speed: 144.611557
+
+Swipe id: 47, state: STATE_UPDATE, position: (34.6617, 107.067, -38.0623), direction: (0.977971, -0.208344, -0.0128613), speed: 118.800339
+
+Swipe id: 45, state: STATE_END, position: (70.2151, 174.859, 45.8531), direction: (0.947505, -0.259381, 0.186962), speed: 193.929123
+
+Swipe id: 44, state: STATE_END, position: (47.55, 125.635, -53.5482), direction: (0.962424, -0.259739, -0.0792135), speed: 144.611557
+
+Swipe id: 47, state: STATE_UPDATE, position: (34.6617, 107.067, -38.0623), direction: (0.977971, -0.208344, -0.0128613), speed: 118.800339
+
+Swipe id: 47, state: STATE_END, position: (34.6617, 107.067, -38.0623), direction: (0.977971, -0.208344, -0.0128613), speed: 118.800339
+
+Swipe id: 48, state: STATE_START, position: (139.803, 97.8697, 25.9589), direction: (0.866412, -0.0685509, 0.494602), speed: 172.618362
+
+Swipe id: 48, state: STATE_UPDATE, position: (146.199, 96.7483, 32.5178), direction: (0.843641, -0.0722451, 0.532025), speed: 178.302124
+
+Swipe id: 49, state: STATE_START, position: (46.2623, 104.713, -43.936), direction: (-0.747406, -0.198997, -0.633865), speed: 122.618736
+
+Swipe id: 49, state: STATE_UPDATE, position: (24.8728, 102.419, -50.7722), direction: (-0.792163, -0.184695, -0.581692), speed: 116.987679
+
+Swipe id: 49, state: STATE_UPDATE, position: (0.789316, 100.827, -53.2005), direction: (-0.822918, -0.174913, -0.540566), speed: 114.004356
+
+Swipe id: 49, state: STATE_UPDATE, position: (-23.609, 99.0302, -53.4067), direction: (-0.873277, -0.159725, -0.4603), speed: 114.963623
+
+Swipe id: 49, state: STATE_UPDATE, position: (-46.2658, 97.5705, -52.5956), direction: (-0.914411, -0.143993, -0.378309), speed: 120.111771
+
+Swipe id: 49, state: STATE_UPDATE, position: (-46.2658, 97.5705, -52.5956), direction: (-0.914411, -0.143993, -0.378309), speed: 120.111771
+
+Swipe id: 49, state: STATE_UPDATE, position: (-46.2658, 97.5705, -52.5956), direction: (-0.914411, -0.143993, -0.378309), speed: 120.111771
+
+Swipe id: 49, state: STATE_UPDATE, position: (-46.2658, 97.5705, -52.5956), direction: (-0.914411, -0.143993, -0.378309), speed: 120.111771
+
+Swipe id: 49, state: STATE_UPDATE, position: (-46.2658, 97.5705, -52.5956), direction: (-0.914411, -0.143993, -0.378309), speed: 120.111771
+
+Swipe id: 49, state: STATE_UPDATE, position: (-46.2658, 97.5705, -52.5956), direction: (-0.914411, -0.143993, -0.378309), speed: 120.111771
+
+Swipe id: 49, state: STATE_END, position: (-46.2658, 97.5705, -52.5956), direction: (-0.914411, -0.143993, -0.378309), speed: 120.111771
+
+Swipe id: 50, state: STATE_START, position: (-161.961, 193.698, -46.5786), direction: (-0.998472, 0.0139808, 0.0534671), speed: 256.748810
+
+Swipe id: 50, state: STATE_UPDATE, position: (-177.038, 195.886, -42.0529), direction: (-0.998556, 0.018893, 0.050283), speed: 267.361450
+
+Swipe id: 50, state: STATE_UPDATE, position: (-191.334, 197.727, -38.7021), direction: (-0.994957, 0.0370124, 0.0932269), speed: 277.853516
+
+Swipe id: 50, state: STATE_UPDATE, position: (-203.493, 200.684, -31.9232), direction: (-0.986907, 0.0614072, 0.149143), speed: 287.580658
+
+Swipe id: 51, state: STATE_START, position: (-219.854, 171.544, -44.1115), direction: (-0.970514, 0.121632, 0.208108), speed: 282.327332
+
+Swipe id: 52, state: STATE_START, position: (-223.91, 143.038, -38.1291), direction: (-0.972818, 0.110361, 0.20358), speed: 268.420410
+
+Swipe id: 50, state: STATE_UPDATE, position: (-214.305, 202.65, -24.1504), direction: (-0.985253, 0.060462, 0.160062), speed: 295.933472
+
+Swipe id: 51, state: STATE_UPDATE, position: (-230.312, 173.992, -36.9437), direction: (-0.96835, 0.116876, 0.22054), speed: 291.001770
+
+Swipe id: 52, state: STATE_UPDATE, position: (-234.013, 145.342, -31.8388), direction: (-0.971462, 0.105412, 0.212484), speed: 277.308685
+
+Swipe id: 53, state: STATE_START, position: (-178.285, 210.019, 34.9118), direction: (-0.960367, 0.0897002, 0.263911), speed: 277.691071
+
+Swipe id: 50, state: STATE_UPDATE, position: (-224.909, 205.534, -16.3258), direction: (-0.972604, 0.082405, 0.217373), speed: 305.114838
+
+Swipe id: 51, state: STATE_UPDATE, position: (-240.653, 177.198, -29.3811), direction: (-0.952115, 0.141187, 0.271187), speed: 300.293732
+
+Swipe id: 52, state: STATE_UPDATE, position: (-243.022, 148.652, -25.331), direction: (-0.956532, 0.133355, 0.259352), speed: 286.004730
+
+Swipe id: 53, state: STATE_UPDATE, position: (-185.627, 211.211, 40.0247), direction: (-0.956391, 0.0912547, 0.277467), speed: 284.023529
+
+Swipe id: 50, state: STATE_UPDATE, position: (-233.979, 208.308, -9.44637), direction: (-0.957878, 0.104428, 0.267514), speed: 313.412659
+
+Swipe id: 51, state: STATE_UPDATE, position: (-250.294, 180.681, -22.3226), direction: (-0.950705, 0.140912, 0.276231), speed: 309.501434
+
+Swipe id: 52, state: STATE_UPDATE, position: (-252.354, 152.312, -18.9228), direction: (-0.955378, 0.134162, 0.263159), speed: 295.363159
+
+Swipe id: 53, state: STATE_UPDATE, position: (-191.648, 212.678, 44.0731), direction: (-0.942782, 0.102205, 0.317359), speed: 289.660645
+
+Swipe id: 50, state: STATE_UPDATE, position: (-241.656, 210.313, -3.34256), direction: (-0.958039, 0.101506, 0.268063), speed: 320.375275
+
+Swipe id: 51, state: STATE_UPDATE, position: (-257.539, 182.877, -16.3654), direction: (-0.93383, 0.15976, 0.320058), speed: 316.288086
+
+Swipe id: 52, state: STATE_UPDATE, position: (-259.222, 154.613, -13.308), direction: (-0.939145, 0.156099, 0.306006), speed: 302.123291
+
+Swipe id: 53, state: STATE_UPDATE, position: (-196.732, 214.266, 48.0381), direction: (-0.941144, 0.107337, 0.320509), speed: 294.823883
+
+Swipe id: 50, state: STATE_UPDATE, position: (-248.1, 211.925, 2.46921), direction: (-0.942074, 0.117359, 0.314202), speed: 326.300293
+
+Swipe id: 51, state: STATE_UPDATE, position: (-263.509, 184.527, -10.6059), direction: (-0.935016, 0.152219, 0.320273), speed: 321.869324
+
+Swipe id: 52, state: STATE_UPDATE, position: (-264.93, 156.336, -7.61894), direction: (-0.939877, 0.14831, 0.307627), speed: 307.712524
+
+Swipe id: 53, state: STATE_UPDATE, position: (-200.334, 215.312, 51.2012), direction: (-0.926182, 0.116355, 0.358677), speed: 298.520233
+
+Swipe id: 50, state: STATE_UPDATE, position: (-253.089, 214.309, 7.21895), direction: (-0.92422, 0.138278, 0.355944), speed: 331.714539
+
+Swipe id: 51, state: STATE_UPDATE, position: (-269.655, 187.602, -4.96634), direction: (-0.915595, 0.174809, 0.362115), speed: 328.531647
+
+Swipe id: 52, state: STATE_UPDATE, position: (-272.336, 159.636, -1.29475), direction: (-0.920364, 0.173003, 0.350712), speed: 315.677582
+
+Swipe id: 53, state: STATE_UPDATE, position: (-203.617, 216.479, 54.1497), direction: (-0.927081, 0.118631, 0.355594), speed: 302.084778
+
+Swipe id: 50, state: STATE_UPDATE, position: (-257.564, 216.743, 11.5137), direction: (-0.92666, 0.137943, 0.349675), speed: 336.822021
+
+Swipe id: 51, state: STATE_UPDATE, position: (-274.845, 190.846, -0.285476), direction: (-0.918066, 0.175214, 0.355604), speed: 334.607239
+
+Swipe id: 52, state: STATE_UPDATE, position: (-277.639, 162.876, 2.86622), direction: (-0.900948, 0.198624, 0.385799), speed: 321.900665
+
+Swipe id: 53, state: STATE_UPDATE, position: (-206.938, 218.182, 56.5381), direction: (-0.888231, 0.144197, 0.436181), speed: 305.978912
+
+Swipe id: 50, state: STATE_UPDATE, position: (-262.81, 219.896, 16.4914), direction: (-0.906401, 0.161988, 0.390125), speed: 343.067505
+
+Swipe id: 51, state: STATE_UPDATE, position: (-281.314, 195.029, 6.08097), direction: (-0.895308, 0.201538, 0.397249), speed: 342.360962
+
+Swipe id: 52, state: STATE_UPDATE, position: (-284.5, 167.11, 9.16386), direction: (-0.901494, 0.200844, 0.383367), speed: 330.075439
+
+Swipe id: 53, state: STATE_UPDATE, position: (-206.938, 218.182, 56.5381), direction: (-0.888231, 0.144197, 0.436181), speed: 305.978912
+
+Swipe id: 50, state: STATE_UPDATE, position: (-266.94, 223.691, 20.2096), direction: (-0.884184, 0.191024, 0.426297), speed: 348.859863
+
+Swipe id: 51, state: STATE_UPDATE, position: (-286.916, 200.268, 11.1303), direction: (-0.870577, 0.23414, 0.432752), speed: 350.074066
+
+Swipe id: 52, state: STATE_UPDATE, position: (-291.094, 172.484, 14.1529), direction: (-0.849731, 0.259983, 0.458657), speed: 338.653900
+
+Swipe id: 53, state: STATE_UPDATE, position: (-206.938, 218.182, 56.5381), direction: (-0.888231, 0.144197, 0.436181), speed: 305.978912
+
+Swipe id: 50, state: STATE_UPDATE, position: (-268.346, 224.339, 20.9973), direction: (-0.802848, 0.248255, 0.542038), speed: 350.397675
+
+Swipe id: 51, state: STATE_UPDATE, position: (-286.916, 200.268, 11.1303), direction: (-0.870577, 0.23414, 0.432752), speed: 350.074066
+
+Swipe id: 52, state: STATE_UPDATE, position: (-291.094, 172.484, 14.1529), direction: (-0.849731, 0.259983, 0.458657), speed: 338.653900
+
+Swipe id: 53, state: STATE_UPDATE, position: (-206.938, 218.182, 56.5381), direction: (-0.888231, 0.144197, 0.436181), speed: 305.978912
+
+Swipe id: 50, state: STATE_UPDATE, position: (-268.346, 224.339, 20.9973), direction: (-0.802848, 0.248255, 0.542038), speed: 350.397675
+
+Swipe id: 51, state: STATE_UPDATE, position: (-286.916, 200.268, 11.1303), direction: (-0.870577, 0.23414, 0.432752), speed: 350.074066
+
+Swipe id: 52, state: STATE_UPDATE, position: (-291.094, 172.484, 14.1529), direction: (-0.849731, 0.259983, 0.458657), speed: 338.653900
+
+Swipe id: 53, state: STATE_UPDATE, position: (-206.938, 218.182, 56.5381), direction: (-0.888231, 0.144197, 0.436181), speed: 305.978912
+
+Swipe id: 50, state: STATE_UPDATE, position: (-268.346, 224.339, 20.9973), direction: (-0.802848, 0.248255, 0.542038), speed: 350.397675
+
+Swipe id: 51, state: STATE_UPDATE, position: (-286.916, 200.268, 11.1303), direction: (-0.870577, 0.23414, 0.432752), speed: 350.074066
+
+Swipe id: 52, state: STATE_UPDATE, position: (-291.094, 172.484, 14.1529), direction: (-0.849731, 0.259983, 0.458657), speed: 338.653900
+
+Swipe id: 53, state: STATE_UPDATE, position: (-206.938, 218.182, 56.5381), direction: (-0.888231, 0.144197, 0.436181), speed: 305.978912
+
+Swipe id: 50, state: STATE_UPDATE, position: (-268.346, 224.339, 20.9973), direction: (-0.802848, 0.248255, 0.542038), speed: 350.397675
+
+Swipe id: 51, state: STATE_UPDATE, position: (-286.916, 200.268, 11.1303), direction: (-0.870577, 0.23414, 0.432752), speed: 350.074066
+
+Swipe id: 52, state: STATE_UPDATE, position: (-291.094, 172.484, 14.1529), direction: (-0.849731, 0.259983, 0.458657), speed: 338.653900
+
+Swipe id: 53, state: STATE_END, position: (-206.938, 218.182, 56.5381), direction: (-0.888231, 0.144197, 0.436181), speed: 305.978912
+
+Swipe id: 50, state: STATE_UPDATE, position: (-268.346, 224.339, 20.9973), direction: (-0.802848, 0.248255, 0.542038), speed: 350.397675
+
+Swipe id: 51, state: STATE_UPDATE, position: (-286.916, 200.268, 11.1303), direction: (-0.870577, 0.23414, 0.432752), speed: 350.074066
+
+Swipe id: 52, state: STATE_UPDATE, position: (-291.094, 172.484, 14.1529), direction: (-0.849731, 0.259983, 0.458657), speed: 338.653900
+
+Swipe id: 50, state: STATE_UPDATE, position: (-268.346, 224.339, 20.9973), direction: (-0.802848, 0.248255, 0.542038), speed: 350.397675
+
+Swipe id: 51, state: STATE_END, position: (-286.916, 200.268, 11.1303), direction: (-0.870577, 0.23414, 0.432752), speed: 350.074066
+
+Swipe id: 52, state: STATE_END, position: (-291.094, 172.484, 14.1529), direction: (-0.849731, 0.259983, 0.458657), speed: 338.653900
+
+Swipe id: 50, state: STATE_END, position: (-268.346, 224.339, 20.9973), direction: (-0.802848, 0.248255, 0.542038), speed: 350.397675
+
+Swipe id: 1, state: STATE_START, position: (-105.552, 199.271, -73.5175), direction: (0.382485, -0.659957, -0.646655), speed: 237.180939
+
+Swipe id: 2, state: STATE_START, position: (-115.699, 175.705, -72.3897), direction: (0.419704, -0.674376, -0.607508), speed: 222.483383
+
+Swipe id: 3, state: STATE_START, position: (-69.167, 209.151, -68.6584), direction: (0.405056, -0.622187, -0.669935), speed: 230.742447
+
+Swipe id: 1, state: STATE_UPDATE, position: (-87.289, 183.131, -85.7198), direction: (0.443263, -0.652609, -0.614507), speed: 220.236389
+
+Swipe id: 2, state: STATE_UPDATE, position: (-96.7423, 159.308, -83.5502), direction: (0.477472, -0.664637, -0.574698), speed: 204.252014
+
+Swipe id: 4, state: STATE_START, position: (-100.394, 128.907, -69.6768), direction: (0.520307, -0.679606, -0.517124), speed: 177.625504
+
+Swipe id: 3, state: STATE_UPDATE, position: (-49.6473, 194.972, -78.6002), direction: (0.477414, -0.615642, -0.626946), speed: 216.002075
+
+Swipe id: 1, state: STATE_UPDATE, position: (-65.3231, 166.73, -95.8512), direction: (0.509564, -0.642388, -0.572435), speed: 203.109573
+
+Swipe id: 2, state: STATE_UPDATE, position: (-73.9113, 142.426, -93.0932), direction: (0.539746, -0.651628, -0.532968), speed: 185.511246
+
+Swipe id: 4, state: STATE_UPDATE, position: (-78.2602, 113.156, -77.3968), direction: (0.578424, -0.66192, -0.476746), speed: 157.858139
+
+Swipe id: 3, state: STATE_UPDATE, position: (-28.2297, 181.7, -85.1562), direction: (0.550143, -0.606433, -0.574093), speed: 202.641418
+
+Swipe id: 1, state: STATE_UPDATE, position: (-40.7814, 150.938, -102.27), direction: (0.577216, -0.630488, -0.518949), speed: 186.827759
+
+Swipe id: 2, state: STATE_UPDATE, position: (-48.4183, 126.358, -98.7023), direction: (0.604063, -0.636852, -0.47909), speed: 167.489700
+
+Swipe id: 4, state: STATE_UPDATE, position: (-53.5742, 98.1872, -81.3326), direction: (0.638841, -0.642568, -0.423071), speed: 138.296509
+
+Swipe id: 3, state: STATE_UPDATE, position: (-3.67447, 169.831, -87.266), direction: (0.629666, -0.591201, -0.503986), speed: 190.974915
+
+Swipe id: 1, state: STATE_UPDATE, position: (-12.6943, 136.314, -104.149), direction: (0.649392, -0.613213, -0.449732), speed: 172.016205
+
+Swipe id: 2, state: STATE_UPDATE, position: (-19.7221, 111.299, -99.7927), direction: (0.670906, -0.617712, -0.410265), speed: 150.781097
+
+Swipe id: 4, state: STATE_UPDATE, position: (-26.7513, 84.7053, -81.2213), direction: (0.69963, -0.618933, -0.356988), speed: 120.364059
+
+Swipe id: 3, state: STATE_UPDATE, position: (-3.67447, 169.831, -87.266), direction: (0.629666, -0.591201, -0.503986), speed: 190.974915
+
+Swipe id: 1, state: STATE_UPDATE, position: (-12.6943, 136.314, -104.149), direction: (0.649392, -0.613213, -0.449732), speed: 172.016205
+
+Swipe id: 2, state: STATE_UPDATE, position: (-19.7221, 111.299, -99.7927), direction: (0.670906, -0.617712, -0.410265), speed: 150.781097
+
+Swipe id: 4, state: STATE_UPDATE, position: (1.65205, 73.231, -78.4636), direction: (0.756694, -0.587808, -0.286175), speed: 107.340805
+
+Swipe id: 3, state: STATE_UPDATE, position: (-3.67447, 169.831, -87.266), direction: (0.629666, -0.591201, -0.503986), speed: 190.974915
+
+Swipe id: 1, state: STATE_UPDATE, position: (-12.6943, 136.314, -104.149), direction: (0.649392, -0.613213, -0.449732), speed: 172.016205
+
+Swipe id: 2, state: STATE_UPDATE, position: (-19.7221, 111.299, -99.7927), direction: (0.670906, -0.617712, -0.410265), speed: 150.781097
+
+Swipe id: 4, state: STATE_UPDATE, position: (1.65205, 73.231, -78.4636), direction: (0.756694, -0.587808, -0.286175), speed: 107.340805
+
+Swipe id: 3, state: STATE_UPDATE, position: (-3.67447, 169.831, -87.266), direction: (0.629666, -0.591201, -0.503986), speed: 190.974915
+
+Swipe id: 1, state: STATE_UPDATE, position: (-12.6943, 136.314, -104.149), direction: (0.649392, -0.613213, -0.449732), speed: 172.016205
+
+Swipe id: 2, state: STATE_UPDATE, position: (-19.7221, 111.299, -99.7927), direction: (0.670906, -0.617712, -0.410265), speed: 150.781097
+
+Swipe id: 4, state: STATE_UPDATE, position: (1.65205, 73.231, -78.4636), direction: (0.756694, -0.587808, -0.286175), speed: 107.340805
+
+Swipe id: 3, state: STATE_UPDATE, position: (-3.67447, 169.831, -87.266), direction: (0.629666, -0.591201, -0.503986), speed: 190.974915
+
+Swipe id: 1, state: STATE_UPDATE, position: (-12.6943, 136.314, -104.149), direction: (0.649392, -0.613213, -0.449732), speed: 172.016205
+
+Swipe id: 2, state: STATE_UPDATE, position: (-19.7221, 111.299, -99.7927), direction: (0.670906, -0.617712, -0.410265), speed: 150.781097
+
+Swipe id: 4, state: STATE_UPDATE, position: (1.65205, 73.231, -78.4636), direction: (0.756694, -0.587808, -0.286175), speed: 107.340805
+
+Swipe id: 3, state: STATE_UPDATE, position: (-3.67447, 169.831, -87.266), direction: (0.629666, -0.591201, -0.503986), speed: 190.974915
+
+Swipe id: 1, state: STATE_UPDATE, position: (-12.6943, 136.314, -104.149), direction: (0.649392, -0.613213, -0.449732), speed: 172.016205
+
+Swipe id: 2, state: STATE_UPDATE, position: (-19.7221, 111.299, -99.7927), direction: (0.670906, -0.617712, -0.410265), speed: 150.781097
+
+Swipe id: 4, state: STATE_UPDATE, position: (1.65205, 73.231, -78.4636), direction: (0.756694, -0.587808, -0.286175), speed: 107.340805
+
+Swipe id: 3, state: STATE_END, position: (-3.67447, 169.831, -87.266), direction: (0.629666, -0.591201, -0.503986), speed: 190.974915
+
+Swipe id: 1, state: STATE_END, position: (-12.6943, 136.314, -104.149), direction: (0.649392, -0.613213, -0.449732), speed: 172.016205
+
+Swipe id: 2, state: STATE_END, position: (-19.7221, 111.299, -99.7927), direction: (0.670906, -0.617712, -0.410265), speed: 150.781097
+
+Swipe id: 4, state: STATE_UPDATE, position: (1.65205, 73.231, -78.4636), direction: (0.756694, -0.587808, -0.286175), speed: 107.340805
+
+Swipe id: 4, state: STATE_END, position: (1.65205, 73.231, -78.4636), direction: (0.756694, -0.587808, -0.286175), speed: 107.340805
