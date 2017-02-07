@@ -1,5 +1,5 @@
 # Unity-Cardboard-LeapMotion
-Integration of Unity + Cardboard + LeapMotion on Android device
+This is a Virtual Reality(VR) project. Integration of Unity + Cardboard + LeapMotion on Android device
 
 Unity Version: 5.3.4
 
